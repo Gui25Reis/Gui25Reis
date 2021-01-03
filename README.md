@@ -61,8 +61,11 @@
  </p>
 </div>
 
+<br/><br/><br/>
+
 ## My Development Stack
 
+<!-- Criando a tabela -->
 <table align="center" style="margin: 0px auto;">
     <tr>
         <td><h3 align="center">Aplication and Data</h3></td>
