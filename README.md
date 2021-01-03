@@ -2,7 +2,7 @@
 
 <!-- Introdução -->
 <p align="center">
-    I´m from São Bernardo do Campo - São Paulo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Macenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/Curriculo.pdf">here</a>.
+    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Macenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/Curriculo.pdf">here</a>.
 </p>
 
 <!-- Redes sociais -->
@@ -53,11 +53,11 @@
 
 <!-- Último projeto -->
 
-## Last project!!! 🤗🤗
+## Last project!!! 🤗🌟🤗
 <div>
     <img align="right" width="350px" src="https://github.com/Gui25Reis/Diferenca-em-dias/blob/master/arquivos/_documentacao/video-explicativo/video-gif.gif"/>
     <p style="text-align: justify;", align="justify">
-        <a href="https://github.com/Gui25Reis/Diferenca-em-dias">Difference in days</a> (Diferença em Dias): Program with graphical interface and the best documentation I've ever done. The difference is made in days between two dates. Take a look and if liking leave a 🌟 :)
+        Difference in days (<a href="https://github.com/Gui25Reis/Diferenca-em-dias">Diferença em Dias</a>): Program with graphical interface and the best documentation I've ever done. The difference is made in days between two dates. Take a look and if liking leave a 🌟 :)
     </p>
 </div>
 
@@ -90,7 +90,7 @@
             <a href="https://pt.stackoverflow.com/users/177439/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Stackoverflow-pt-quadrado.png"/></a>
         </td>
         <td>
-            <<img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Adobe-quadrado.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Adobe-quadrado.png"/>
             <a href="https://www.qt.io/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/QtDesigner-png.png"/></a>
             <a href="https://astah.net/downloads/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Astah-quadrado.png"/></a>
             <a href="https://www.bizagi.com/pt/plataforma/modeler"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Bizage-quadrado.png"/></a>
@@ -113,5 +113,4 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact"/>
-
 </p>
