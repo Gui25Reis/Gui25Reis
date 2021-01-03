@@ -72,40 +72,34 @@
         <td><h3 align="center">Games</h3></td>
     </tr>
     <tr>
-        <td> &nbsp;
+        <td>
             <a href="https://www.python.org/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Pyhon-quadrada.png"/></a>
             <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/C-quadrada.png"/></a>
             <a href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Cpp-quadrada.png"/></a>
             <a href="https://pt.wikipedia.org/wiki/HTML"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/HTML-quadrado.png"/></a>
             <a href="https://www.mysql.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/MySQL-png.png"/></a>
-            &nbsp;
         </td>
-        <td> &nbsp;
+        <td>
             <a href="https://github.com/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/GitHub-quadrado.png"/></a>
             <a href="https://code.visualstudio.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/VsCode-quadrado.png"/></a>
             <a href="https://git-scm.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Git-quadrada.png"/></a>
             <a href="https://stackoverflow.com/users/13974761/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Stackoverflow-png.png"/></a>
             <a href="https://pt.stackoverflow.com/users/177439/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Stackoverflow-pt-quadrado.png"/></a>
-            &nbsp;
         </td>
-        <td> &nbsp;
+        <td>
             <a href="https://www.behance.net/guilhermereis23"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Adobe-quadrado.png"/></a>
             <a href="https://www.qt.io/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/QtDesigner-png.png"/></a>
             <a href="https://astah.net/downloads/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Astah-quadrado.png"/></a>
             <a href="https://www.bizagi.com/pt/plataforma/modeler"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Bizage-quadrado.png"/></a>
-            &nbsp;
         </td>
-        <td> &nbsp;
+        <td>
             <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Tinkercad-png.png"/></a>
             <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/URI-quadrado.png"/></a>
-            &nbsp;
         </td>
-        <td> &nbsp;
+        <td>
             <a href="https://steamcommunity.com/profiles/76561198153890625/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Steam-quadrado.png"/></a>
-            <a href=""><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Origin-quadrado.png"/></a>
             <a href="https://my.playstation.com/profile/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Playstation-quadrado.png"/></a>
             <a href="https://account.xbox.com/pt-br/profile?gamertag=SummerlyCard7"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Xbox-quadrada.png"/></a>
-            &nbsp;
         </td>
     </tr>
 </table>
