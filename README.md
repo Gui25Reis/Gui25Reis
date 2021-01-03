@@ -55,7 +55,7 @@
 
 ## Meu último projeto 
 <div>
- <img align="right" width="300px" src="https://github.com/Gui25Reis/Diferenca-em-dias/blob/master/arquivos/imagens/_logo/logo.png?raw=true"/>
+ <img align="right" width="350px" src="https://github.com/Gui25Reis/Diferenca-em-dias/blob/master/arquivos/_documentacao/video-explicativo/video-gif.gif"/>
  <p style="text-align: justify;", align="justify">
  <a href="https://github.com/Gui25Reis/Diferenca-em-dias">Diferença em Dias</a>: Programa com interface gráfica e a melhor documentaçao que eu já fiz. Nele é feito a diferença em dias entre duas datas. Dá um olhada se gostar deixa uma 🌟 :)
  </p>
