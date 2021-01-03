@@ -2,7 +2,7 @@
 
 <!-- Introdução -->
 <p align="center">
-    Sou de São Bernardo do Campo - São Paulo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Participo da <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Macenzie</a>.<br/>Veja meu currículo <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/Curriculo.pdf">aqui</a>.
+    I´m from São Bernardo do Campo - São Paulo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Macenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/Curriculo.pdf">here</a>.
 </p>
 
 <!-- Redes sociais -->
@@ -41,27 +41,27 @@
     </a>
 </p>
 
-## Um pouco sobre mim
+## About me 😁
 <p align="justify">
-    Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, com foco em desenvolvimento de software. Constantemente fazendo algum projeto ou problemas de exercício, aprendendo mais e também no aperfeiçoando nas linguagens e teorias por trás.
+    Computer Science student at Universidade Presbiteriana Mackenzie, focusing on software development. Constantly doing some project or exercise problems, learning more and also perfecting the languages and theories behind it.
 </p>
 
-## Sobre os projetos
+## My projects 😎
 <p align="justify">
-    Boa parte dos projetos que são postados aqui serão super documentados e comentados, porém em português. Isso porque há poucos cursos e tutoriais na nossa língua, assim, ajuda as pessaos que estão começando, tendo uma noção de como funciona as coisas, o que cada linha de código está fazedendo e também o que dá pra fazer no início.
+    Much of the projects that are posted here will be super documented and commented on, but in Portuguese. That's because there are few courses and tutorials in our language, so it helps people who are starting, having a sense of how things work, what each line of code is doing and also what you can do in the beginning.
 </p>
 
 <!-- Último projeto -->
 
-## Meu último projeto 
+## Last project!!! 🤗🤗
 <div>
- <img align="right" width="350px" src="https://github.com/Gui25Reis/Diferenca-em-dias/blob/master/arquivos/_documentacao/video-explicativo/video-gif.gif"/>
- <p style="text-align: justify;", align="justify">
- <a href="https://github.com/Gui25Reis/Diferenca-em-dias">Diferença em Dias</a>: Programa com interface gráfica e a melhor documentaçao que eu já fiz. Nele é feito a diferença em dias entre duas datas. Dá um olhada se gostar deixa uma 🌟 :)
- </p>
+    <img align="right" width="350px" src="https://github.com/Gui25Reis/Diferenca-em-dias/blob/master/arquivos/_documentacao/video-explicativo/video-gif.gif"/>
+    <p style="text-align: justify;", align="justify">
+        <a href="https://github.com/Gui25Reis/Diferenca-em-dias">Difference in days</a> (Diferença em Dias): Program with graphical interface and the best documentation I've ever done. The difference is made in days between two dates. Take a look and if liking leave a 🌟 :)
+    </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## My Development Stack
 
@@ -76,10 +76,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.python.org/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Pyhon-quadrada.png"/></a>
-            <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/C-quadrada.png"/></a>
-            <a href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Cpp-quadrada.png"/></a>
-            <a href="https://pt.wikipedia.org/wiki/HTML"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/HTML-quadrado.png"/></a>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Pyhon-quadrada.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/C-quadrada.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Cpp-quadrada.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/HTML-quadrado.png"/>
             <a href="https://www.mysql.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/MySQL-png.png"/></a>
         </td>
         <td>
@@ -90,7 +90,7 @@
             <a href="https://pt.stackoverflow.com/users/177439/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Stackoverflow-pt-quadrado.png"/></a>
         </td>
         <td>
-            <a href="https://www.behance.net/guilhermereis23"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Adobe-quadrado.png"/></a>
+            <<img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Adobe-quadrado.png"/>
             <a href="https://www.qt.io/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/QtDesigner-png.png"/></a>
             <a href="https://astah.net/downloads/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Astah-quadrado.png"/></a>
             <a href="https://www.bizagi.com/pt/plataforma/modeler"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Bizage-quadrado.png"/></a>
@@ -109,7 +109,7 @@
 
 <br/>
 
-## Minha atividade:
+## My activity:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact"/>
