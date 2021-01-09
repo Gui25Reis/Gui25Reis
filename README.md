@@ -2,7 +2,7 @@
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Macenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/Curriculo.pdf">here</a>.
+    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/Curriculo.pdf">here</a>.
 </p>
 
 <!-- Redes sociais -->
@@ -43,12 +43,12 @@
 
 ## About me 😁
 <p align="justify">
-    Computer Science student at Universidade Presbiteriana Mackenzie, focusing on software development. Constantly doing some project or exercise problems, learning more and also perfecting the languages and theories behind it.
+    I'm 20 years old and a Computer Science student at Universidade Presbiteriana Mackenzie, focusing on software development. Constantly doing some project or exercise problems, learning more and also perfecting the languages and theories behind it.
 </p>
 
 ## My projects 😎
 <p align="justify">
-    Much of the projects that are posted here will be super documented and commented on, but in Portuguese. That's because there are few courses and tutorials in our language, so it helps people who are starting, having a sense of how things work, what each line of code is doing and also what you can do in the beginning.
+    Much of the projects that are posted here will be super documented and commented, but in Portuguese. That's because there are few courses and tutorials in our language, so it helps people who are starting, having a sense of how things work, what each line of code is doing and also what you can do in the beginning.
 </p>
 
 <!-- Último projeto -->
@@ -111,6 +111,6 @@
 
 ## My activity:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="360px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact"/>
 </p>
