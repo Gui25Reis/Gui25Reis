@@ -104,6 +104,97 @@
 
 <br/>
 
+## My Apps
+<table align="center" style="margin: 0px auto;">
+    <tr>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><br>
+            <sub>
+                <b>Inkolors</b>
+            </sub>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/><br>
+            <sub>
+                <b>Coverless</b>
+            </sub>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/BallRunner-logo.png"  alt="Logo app Ball Runner"/><br>
+            <sub>
+                <b>Ball Runner</b>
+            </sub>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/TheMidway-logo.png"  alt="Logo app The Midway"/><br>
+            <sub>
+                <b>The Midway</b>
+            </sub>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><br>
+            <sub>
+                <b>Caminholas</b>
+            </sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
+                App Store
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
+                App Store
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://testflight.apple.com/join/RlTT5A77">
+                Test Flight
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://testflight.apple.com/join/AQtAd7LV">
+                Test Flight
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://apps.apple.com/us/app/caminholas/id1579190655">
+                Test Flight
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Inkolors">
+                GitHub
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Coverless">
+                GitHub
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Ball-Runner">
+                GitHub
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/biaduque/TheMidway">
+                GitHub
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Drink-Game">
+                GitHub
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 ## My activity:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
