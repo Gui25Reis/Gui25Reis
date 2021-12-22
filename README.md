@@ -126,56 +126,27 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
-                App Store
-            </a>
+            <a href="https://github.com/Gui25Reis/Inkolors"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://apps.apple.com/us/app/inkolors/id1572342593"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
         </td>
         <td align="center">
-            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
-                App Store
-            </a>
+            <a href="https://github.com/Gui25Reis/Coverless"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
         </td>
         <td align="center">
-            <a href="https://testflight.apple.com/join/RlTT5A77">
-                Test Flight
-            </a>
+            <a href="https://github.com/Gui25Reis/Ball-Runner"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
+            <a href="https://testflight.apple.com/join/RlTT5A77"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a>
         </td>
         <td align="center">
-            <a href="https://testflight.apple.com/join/AQtAd7LV">
-                Test Flight
-            </a>
+            <a href="https://github.com/biaduque/TheMidway"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
+            <a href="https://testflight.apple.com/join/AQtAd7LV"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a>
         </td>
         <td align="center">
-            <a href="https://apps.apple.com/us/app/caminholas/id1579190655">
-                Test Flight
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Inkolors">
-                GitHub
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Coverless">
-                GitHub
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Ball-Runner">
-                GitHub
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/biaduque/TheMidway">
-                GitHub
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Drink-Game">
-                GitHub
-            </a>
+            <a href="https://github.com/biaduque/Drink-Game"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://apps.apple.com/us/app/caminholas/id1579190655"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
+            <a href="https://testflight.apple.com/join/AQtAd7LV"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a>
         </td>
     </tr>
 </table>
