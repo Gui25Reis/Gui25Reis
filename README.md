@@ -105,37 +105,23 @@
 <br/>
 
 ## My Apps
-<table align="center" style="margin: 0px auto;">
+<table>
     <tr>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><br>
-            <p>
-                <b>Inkolors</b>
-            </p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/><br>
-            <p>
-                <b>Coverless</b>
-            </p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
+            <p><b>Coverless</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/BallRunner-logo.png"  alt="Logo app Ball Runner"/><br>
-            <p>
-                <b>Ball Runner</b>
-            </p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/BallRunner-logo.png"  alt="Logo app Ball Runner"/><p><b>Ball Runner</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/TheMidway-logo.png"  alt="Logo app The Midway"/><br>
-            <p>
-                <b>The Midway</b>
-            </p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/TheMidway-logo.png"  alt="Logo app The Midway"/><p><b>The Midway</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><br>
-            <p>
-                <b>Caminholas</b>
-            </p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
         </td>
     </tr>
     <tr>
