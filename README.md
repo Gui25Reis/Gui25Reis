@@ -2,7 +2,7 @@
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src=https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrada.png" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">EN</a>
+    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
@@ -72,7 +72,6 @@
         <td><h3 align="center">DevOps</h3></td>
         <td><h3 align="center">Utilities</h3></td>
         <td><h3 align="center">Other</h3></td>
-        <td><h3 align="center">Games</h3></td>
     </tr>
     <tr>
         <td>
@@ -100,12 +99,6 @@
         <td>
             <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Tinkercad-png.png"/></a>
             <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/URI-quadrado.png"/></a>
-        </td>
-        <td>
-            <a href="https://steamcommunity.com/profiles/76561198153890625/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Steam-quadrado.png"/></a>
-            <a href="https://my.playstation.com/profile/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Playstation-quadrado.png"/></a>
-            <a href="https://account.xbox.com/pt-br/profile?gamertag=SummerlyCard7"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Xbox-quadrada.png"/></a>
-        </td>
     </tr>
 </table>
 
