@@ -1,8 +1,8 @@
-# Hi, I'm Gui! Welcome to my page <img src="https://raw.githubusercontent.com/Gui25Reis/Gui25Reis/main/_images/_gifs/smile.gif" width="35px"/>
+# Hi, I'm Gui! Welcome to my page <img src="https://raw.githubusercontent.com/Gui25Reis/Gui25Reis/main/images/_gifs/smile.gif" width="35px"/>
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/Curriculo.pdf">here</a>.
+    I'm from São Bernardo do Campo - São Paulo <img width="16" src=https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrada.png" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
@@ -43,7 +43,7 @@
 
 ## About me 😁
 <p align="justify">
-    I'm 20 years old and a Computer Science student at Universidade Presbiteriana Mackenzie, focusing on software development. Constantly doing some project or exercise problems, learning more and also perfecting the languages and theories behind it.
+    I'm 21 years old and a Computer Science student at Universidade Presbiteriana Mackenzie, focusing on software development. Constantly doing some project or exercise problems, learning more and also perfecting the languages and theories behind it.
 </p>
 
 ## My projects 😎
@@ -76,33 +76,35 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Pyhon-quadrada.png"/>
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/C-quadrada.png"/>
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Cpp-quadrada.png"/>
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/HTML-quadrado.png"/>
-            <a href="https://www.mysql.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/MySQL-png.png"/></a>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Pyhon-quadrada.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Swift-quadrado.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/C-quadrada.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Cpp-quadrada.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/HTML-quadrado.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Markdown-quadrado.png"/>
+            <a href="https://www.mysql.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/MySQL-png.png"/></a>
         </td>
         <td>
-            <a href="https://github.com/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://code.visualstudio.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/VsCode-quadrado.png"/></a>
-            <a href="https://git-scm.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Git-quadrada.png"/></a>
-            <a href="https://stackoverflow.com/users/13974761/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Stackoverflow-png.png"/></a>
-            <a href="https://pt.stackoverflow.com/users/177439/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Stackoverflow-pt-quadrado.png"/></a>
+            <a href="https://github.com/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://git-scm.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Git-quadrada.png"/></a>
+            <a href="https://code.visualstudio.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/VsCode-quadrado.png"/></a>
+            <a href="https://apps.apple.com/br/app/xcode/id497799835"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/XCode-quadrado.png"/></a>
+            <a href="https://stackoverflow.com/users/13974761/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Stackoverflow-png.png"/></a>
+            <a href="https://pt.stackoverflow.com/users/177439/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Stackoverflow-pt-quadrado.png"/></a>
         </td>
         <td>
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Adobe-quadrado.png"/>
-            <a href="https://www.qt.io/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/QtDesigner-png.png"/></a>
-            <a href="https://astah.net/downloads/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Astah-quadrado.png"/></a>
-            <a href="https://www.bizagi.com/pt/plataforma/modeler"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Bizage-quadrado.png"/></a>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Adobe-quadrado.png"/>
+            <a href="https://www.qt.io/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/QtDesigner-png.png"/></a>
+            <a href="https://www.notion.so/product"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Notion-quadrado.png"/></a>
         </td>
         <td>
-            <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Tinkercad-png.png"/></a>
-            <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/URI-quadrado.png"/></a>
+            <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Tinkercad-png.png"/></a>
+            <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/URI-quadrado.png"/></a>
         </td>
         <td>
-            <a href="https://steamcommunity.com/profiles/76561198153890625/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Steam-quadrado.png"/></a>
-            <a href="https://my.playstation.com/profile/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Playstation-quadrado.png"/></a>
-            <a href="https://account.xbox.com/pt-br/profile?gamertag=SummerlyCard7"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/_images/_icons/Xbox-quadrada.png"/></a>
+            <a href="https://steamcommunity.com/profiles/76561198153890625/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Steam-quadrado.png"/></a>
+            <a href="https://my.playstation.com/profile/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Playstation-quadrado.png"/></a>
+            <a href="https://account.xbox.com/pt-br/profile?gamertag=SummerlyCard7"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Xbox-quadrada.png"/></a>
         </td>
     </tr>
 </table>
@@ -111,6 +113,6 @@
 
 ## My activity:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="360px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact"/>
 </p>
