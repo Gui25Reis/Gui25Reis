@@ -88,6 +88,7 @@
             <a href="https://git-scm.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Git-quadrada.png"/></a>
             <a href="https://code.visualstudio.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/VsCode-quadrado.png"/></a>
             <a href="https://apps.apple.com/br/app/xcode/id497799835"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/XCode-quadrado.png"/></a>
+            <a href="https://www.apple.com/br/swift/playgrounds/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/SwiftPlaygrounds-quadrado.png"/></a>
             <a href="https://stackoverflow.com/users/13974761/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Stackoverflow-png.png"/></a>
             <a href="https://pt.stackoverflow.com/users/177439/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Stackoverflow-pt-quadrado.png"/></a>
         </td>
