@@ -109,33 +109,33 @@
     <tr>
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><br>
-            <sub>
+            <p>
                 <b>Inkolors</b>
-            </sub>
+            </p>
         </td>
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/><br>
-            <sub>
+            <p>
                 <b>Coverless</b>
-            </sub>
+            </p>
         </td>
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/BallRunner-logo.png"  alt="Logo app Ball Runner"/><br>
-            <sub>
+            <p>
                 <b>Ball Runner</b>
-            </sub>
+            </p>
         </td>
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/TheMidway-logo.png"  alt="Logo app The Midway"/><br>
-            <sub>
+            <p>
                 <b>The Midway</b>
-            </sub>
+            </p>
         </td>
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><br>
-            <sub>
+            <p>
                 <b>Caminholas</b>
-            </sub>
+            </p>
         </td>
     </tr>
     <tr>
