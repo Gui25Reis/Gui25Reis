@@ -168,10 +168,10 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MudancaBase-logo.png"  alt="Logo app KaosBot"/><p><b>Mudança de Base</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MudancaBase-logo.png"  alt="Logo app KaosBot"/><p><b>Mudança de<br>Base</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/DiferencaDatas-logo.png"  alt="Logo app KaosBot"/><p><b>Diferença de Datas</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/DiferencaDatas-logo.png"  alt="Logo app KaosBot"/><p><b>Diferença de<br> Datas</b></p>
         </td>
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MariaCacauContagem-logo.png"  alt="Logo app KaosBot"/><p><b>MC Contagem</b></p>
