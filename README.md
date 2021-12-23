@@ -174,10 +174,10 @@
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/DiferencaDatas-logo.png"  alt="Logo app KaosBot"/><p><b>Diferença de<br> Datas</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MariaCacauContagem-logo.png"  alt="Logo app KaosBot"/><p><b>MC Contagem</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MariaCacauContagem-logo.png"  alt="Logo app KaosBot"/><p><b>MC Contagem<br></b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-logo.png"  alt="Logo app KaosBot"/><p><b>WWDC21</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-logo.png"  alt="Logo app KaosBot"/><p><b>WWDC21<br></b></p>
         </td>
     </tr>
     <tr>
