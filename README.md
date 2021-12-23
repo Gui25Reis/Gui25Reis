@@ -105,7 +105,7 @@
 
 <br/>
 
-## My Apps
+## Apps/Programs created and collaborated
 <table>
     <tr>
         <td align="center">
@@ -123,6 +123,21 @@
         </td>
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
+        </td>
+                <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/KaosBot-logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MudancaBase-logo.png"  alt="Logo app KaosBot"/><p><b>Mudança de Base</b></p>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/DiferencaDatas-logo.png"  alt="Logo app KaosBot"/><p><b>Diferença de Datas</b></p>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MariaCacauContagem-logo.png"  alt="Logo app KaosBot"/><p><b>MC Contagem</b></p>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-logo.png"  alt="Logo app KaosBot"/><p><b>WwDC21</b></p>
         </td>
     </tr>
     <tr>
@@ -153,6 +168,31 @@
             <a href="https://github.com/biaduque/Drink-Game"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
             <!-- <a href="https://apps.apple.com/us/app/caminholas/id1579190655"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a> -->
             <!-- <a href="https://testflight.apple.com/join/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a> -->
+        </td>
+                <!-- KaosBot -->
+        <td align="center">
+            <a href="https://github.com/giangamberi/KaOS_Bot"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://github.com/giangamberi/KaOS_Bot/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
+        </td>
+        <!-- Mudança de Bases -->
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Mudanca-de-base"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://github.com/Gui25Reis/Mudanca-de-base/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
+        </td>
+        <!-- Diferença em Dias -->
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Diferenca-em-dias"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
+        </td>
+        <!-- Maria Cacau Contagem -->
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
+        </td>
+        <!-- WWDC21 -->
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Swift-Student-Challenge-2021"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://github.com/Gui25Reis/Swift-Student-Challenge-2021/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
         </td>
     </tr>
 </table>
