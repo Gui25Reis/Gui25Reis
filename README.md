@@ -2,7 +2,7 @@
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">EN</a>
+    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
@@ -43,25 +43,13 @@
 
 ## About me 😁
 <p align="justify">
-    I'm 21 years old and a Computer Science student at Universidade Presbiteriana Mackenzie, focusing on software development. Constantly doing some project or exercise problems, learning more and also perfecting the languages and theories behind it.
+    I'm 21 years old and I'm a Computer Science student at Mackenzie Presbyterian University. I do software development in general with a focus on performance and performance. Constantly doing some design or exercise problems, learning more and also perfecting the languages and theories behind it. My current languages today are Python and Swift.
 </p>
 
 ## My projects 😎
 <p align="justify">
-    Much of the projects that are posted here will be super documented and commented, but in Portuguese. That's because there are few courses and tutorials in our language, so it helps people who are starting, having a sense of how things work, what each line of code is doing and also what you can do in the beginning.
+    Almost all repositories have a detailed readme. Some even have more advanced documentation on the wiki. The texts are always in Portuguese although the programming itself is in English. This is because there are few courses and tutorials in our language. The purpose of these repositories is as a portfolio but also to help those new to programming or the subject the repository is dealing with. Feel free to create an issue or give a star!!
 </p>
-
-<!-- Último projeto -->
-
-## Last project!!! 🤗🌟🤗
-<div>
-    <img align="right" width="350px" src="https://github.com/Gui25Reis/Diferenca-em-dias/blob/master/arquivos/_documentacao/video-explicativo/video-gif.gif"/>
-    <p style="text-align: justify;", align="justify">
-        Difference in days (<a href="https://github.com/Gui25Reis/Diferenca-em-dias">Diferença em Dias</a>): Program with graphical interface and the best documentation I've ever done. The difference is made in days between two dates. Take a look and if liking leave a 🌟 :)
-    </p>
-</div>
-
-<br/><br/><br/><br/>
 
 ## My Development Stack
 
