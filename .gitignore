@@ -1,2 +1,6 @@
 ## Ignorando tudo da pasta edição
 _images/_icons/_edicao/*
+
+
+### MAC OS ###
+*.DS_Store
