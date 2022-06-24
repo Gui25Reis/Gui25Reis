@@ -39,6 +39,10 @@
     <a href="https://open.spotify.com/user/guui_reeis">
         <img src="https://img.shields.io/badge/Spotify-1db954?&style=flat-square&logo=Spotify&logoColor=white" />
     </a>
+<!-- Medium -->
+<a href="https://open.spotify.com/user/guui_reeis">
+    <img src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white" />
+</a>
 </p>
 
 ## About me 😁
