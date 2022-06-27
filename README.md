@@ -19,32 +19,16 @@
     <a href="https://www.facebook.com/kings25g/">
         <img src="https://img.shields.io/badge/Facebook-3b5998?&style=flat-square&logo=facebook&logoColor=white" />
     </a>
-<!-- Gmail -->
-    <!-- <a href="mailto:gui.sreis25@gmail.com?subject=Olá%20Gui">
-        <img src="https://img.shields.io/badge/Gmail-bb001b?&style=flat-square&logo=gmail&logoColor=white" />
-    </a> -->
 <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/guilherme-reis-27583a1b7/">
         <img src="https://img.shields.io/badge/Linkedin-0e76a8?&style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-<!-- Reddit -->
-    <!-- <a href="https://www.reddit.com/user/kings_25g">
-        <img src="https://img.shields.io/badge/Reddit-ff4500?&style=flat-square&logo=Reddit&logoColor=white" />
-    </a> -->
-<!-- Discord -->
-    <a href="https://discord.gg/yBVRm7x">
-        <img src="https://img.shields.io/badge/Discord-7289da?&style=flat-square&logo=Discord&logoColor=white" />
-    </a>
-<!-- Spotify -->
-    <a href="https://open.spotify.com/user/guui_reeis">
-        <img src="https://img.shields.io/badge/Spotify-1db954?&style=flat-square&logo=Spotify&logoColor=white" />
     </a>
 <!-- Medium -->
     <a href="https://medium.com/@kings_25g">
         <img src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white" />
     </a>
-<!-- Medium -->
-    <a href="https://medium.com/@kings_25g">
+<!-- Linktree -->
+    <a href="https://linktr.ee/kings_25g">
         <img src="https://img.shields.io/badge/Linktree-43E660?&style=flat-square&logo=Linktree&logoColor=white" />
     </a>
 </p>
