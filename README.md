@@ -101,7 +101,7 @@
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/><p><b>The Midway</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
         </td>
             <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
