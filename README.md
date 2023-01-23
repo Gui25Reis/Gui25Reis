@@ -2,15 +2,11 @@
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Working at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
+    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
 <p align="center">
-<!-- Twitter -->
-    <a href="https://twitter.com/gui25reis">
-        <img src="https://img.shields.io/badge/Twitter-1da1f2?&style=flat-square&logo=twitter&logoColor=white" />
-    </a>
 <!-- Instagram -->
     <a href="https://www.instagram.com/kings_25g/">
         <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
@@ -26,6 +22,10 @@
 <!-- Medium -->
     <a href="https://medium.com/@kings_25g">
         <img src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white" />
+    </a>
+<!-- App Store -->
+    <a href="https://apps.apple.com/br/developer/guilherme-reis/id1572342595">
+        <img src="https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white" />
     </a>
 <!-- Linktree -->
     <a href="https://linktr.ee/kings_25g">
@@ -55,13 +55,13 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Pyhon-quadrada.png"/>
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Swift-quadrado.png"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Pyhon-quadrada.png"/>
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/C-quadrada.png"/>
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Cpp-quadrada.png"/>
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/HTML-quadrado.png"/>
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Markdown-quadrado.png"/>
-            <a href="https://www.mysql.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/MySQL-png.png"/></a>
+            <a href="https://www.mysql.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/MySQL.png"/></a>
         </td>
         <td>
             <a href="https://github.com/Gui25Reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
@@ -69,13 +69,12 @@
             <a href="https://code.visualstudio.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/VsCode-quadrado.png"/></a>
             <a href="https://apps.apple.com/br/app/xcode/id497799835"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/XCode-quadrado.png"/></a>
             <a href="https://www.apple.com/br/swift/playgrounds/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/SwiftPlaygrounds-quadrado.png"/></a>
-            <a href="https://stackoverflow.com/users/13974761/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Stackoverflow-png.png"/></a>
-            <a href="https://pt.stackoverflow.com/users/177439/gui-reis"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Stackoverflow-pt-quadrado.png"/></a>
         </td>
         <td>
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Adobe-quadrado.png"/>
             <a href="https://www.qt.io/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/QtDesigner-png.png"/></a>
             <a href="https://www.notion.so/product"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Notion-quadrado.png"/></a>
+            <a href="https://www.figma.com/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Figma-quadrado.png"/></a>
         </td>
         <td>
             <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Tinkercad-png.png"/></a>
@@ -89,23 +88,23 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-Logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-Logo.png"  alt="Logo app Coverless"/>
             <p><b>Coverless</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/BallRunner-logo.png"  alt="Logo app Ball Runner"/><p><b>Ball Runner</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Ball_Runner-Logo.png"  alt="Logo app Ball Runner"/><p><b>Ball Runner</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/TheMidway-logo.png"  alt="Logo app The Midway"/><p><b>The Midway</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/><p><b>The Midway</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-Logo.png.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
         </td>
             <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/KaosBot-logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
         </td>
     </tr>
     <tr>
@@ -122,22 +121,20 @@
         <!-- Ball Runner -->
         <td align="center">
             <a href="https://github.com/Gui25Reis/Ball-Runner"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <!-- <a href="https://apps.apple.com/us/app/ball-ruuner/id1579613903"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a> -->
-            <a href="https://testflight.apple.com/join/RlTT5A77"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a>
+            <a href="https://apps.apple.com/br/app/ball-runner/id1579613903"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
         </td>
         <!-- The Midway -->
         <td align="center">
-            <a href="https://github.com/biaduque/TheMidway"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <!-- <a href="https://apps.apple.com/us/app/the-midway/id1599585926"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a> -->
-            <a href="https://testflight.apple.com/join/AQtAd7LV"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a>
+            <a href="https://github.com/The-Midway/TheMidway"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://apps.apple.com/br/app/the-midway/id1599585926"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
         </td>
         <!-- Caminholas -->
         <td align="center">
-            <a href="https://github.com/biaduque/Drink-Game"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
+            <a href="https://github.com/Gui25Reis/Drink-Game"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
             <!-- <a href="https://apps.apple.com/us/app/caminholas/id1579190655"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a> -->
             <!-- <a href="https://testflight.apple.com/join/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a> -->
         </td>
-                <!-- KaosBot -->
+        <!-- KaosBot -->
         <td align="center">
             <a href="https://github.com/giangamberi/KaOS_Bot"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
             <a href="https://github.com/giangamberi/KaOS_Bot/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
@@ -148,16 +145,16 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MudancaBase-logo.png"  alt="Logo app KaosBot"/><p><b>Mudança de<br>Base</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Mudanca_Base-Logo.png"  alt="Logo app Mudança de Bases"/><p><b>Mudança de<br>Base</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/DiferencaDatas-logo.png"  alt="Logo app KaosBot"/><p><b>Diferença de<br> Datas</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo app Diferença de datas"/><p><b>Diferença de<br> Datas</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/MariaCacauContagem-logo.png"  alt="Logo app KaosBot"/><p><b>MC Contagem<br></b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo app maria cacau contagem"/><p><b>MC Contagem<br></b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-logo.png"  alt="Logo app KaosBot"/><p><b>WWDC21<br></b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-Logo.png"  alt="Logo app WWDC21"/><p><b>WWDC21<br></b></p>
         </td>
     </tr>
     <tr>
