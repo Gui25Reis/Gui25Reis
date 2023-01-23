@@ -88,10 +88,10 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-Logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-Logo.png"  alt="Logo app Coverless"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
             <p><b>Coverless</b></p>
         </td>
         <td align="center">
@@ -101,7 +101,7 @@
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/><p><b>The Midway</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-Logo.png.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
         </td>
             <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
@@ -154,7 +154,7 @@
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo app maria cacau contagem"/><p><b>MC Contagem<br></b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-Logo.png"  alt="Logo app WWDC21"/><p><b>WWDC21<br></b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-logo.png"  alt="Logo app WWDC21"/><p><b>WWDC21<br></b></p>
         </td>
     </tr>
     <tr>
