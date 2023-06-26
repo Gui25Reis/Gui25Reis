@@ -1,3 +1,50 @@
+## Apps/Programs created and collaborated
+<table>
+    <!-- Inkolors -->
+    <tr>
+        <td align="center" rowspan="2">
+            <!-- <a href="https://github.com/Gui25Reis/Inkolors"> -->
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
+                <p><b>Inkolors</b></p>
+            <!-- </a> -->
+        </td>
+        <td>
+            <p>
+                Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias. Assim, precisa colocar as cores no local certo, entendendo qual é a cor resultante.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+            </a>
+        </td>
+    </tr>
+    <!-- Coverless -->
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Gui25Reis/Coverless">
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
+                <p><b>Coverless</b></p>
+            </a>
+        </td>
+        <td rowspan="2">
+            <p>
+                Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 # Hi, I'm Gui! Welcome to my page <img src="https://raw.githubusercontent.com/Gui25Reis/Gui25Reis/main/images/_gifs/smile.gif" width="35px"/>
 
 <!-- Introdução -->
@@ -88,10 +135,10 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-Logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-Logo.png"  alt="Logo app Coverless"/>
             <p><b>Coverless</b></p>
         </td>
         <td align="center">
@@ -101,7 +148,7 @@
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/><p><b>The Midway</b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-Logo.png.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
         </td>
             <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
@@ -154,7 +201,7 @@
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo app maria cacau contagem"/><p><b>MC Contagem<br></b></p>
         </td>
         <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-logo.png"  alt="Logo app WWDC21"/><p><b>WWDC21<br></b></p>
+            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-Logo.png"  alt="Logo app WWDC21"/><p><b>WWDC21<br></b></p>
         </td>
     </tr>
     <tr>
