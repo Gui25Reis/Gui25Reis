@@ -1,28 +1,30 @@
 ## Apps/Programs created and collaborated
 
 <table>
-    <!-- Inkolors -->
+    <!-- Inkolors & Coverless-->
     <tr>
+        <!-- Inkolors -->
         <td valign="top" align="center" width=15%>
             <a href="https://github.com/Gui25Reis/Inkolors">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
                 <p><b>Inkolors</b></p>
             </a>
         </td>
-        <td rowspan="2" width=35% valign="top">
+        <td rowspan="1" width=35% valign="top">
             Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias.
         </td>
+        <!-- Coverless -->
         <td valign="top" align="center" width=15%>
             <a href="https://github.com/Gui25Reis/Coverless">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
                 <p><b>Coverless</b></p>
             </a>
         </td>
-        <td rowspan="2" width=35% valign="top">
+        <td rowspan="1" width=35% valign="top">
             Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td align="center">
             <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
@@ -33,38 +35,50 @@
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
             </a>
         </td>
-    </tr>
+    </tr> -->
     <!--  -------- -->
     <tr>
-        <td valign="top" align="center" width=15% rowspan="2">
+        <!-- Ball Runner -->
+        <td valign="top" align="center" width=15%>
             <a href="https://github.com/Gui25Reis/Inkolors">
-                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
-                <p><b>Inkolors</b></p>
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Ball_Runner-Logo.png"  alt="Logo app Ball Runner"/>
+                <p><b>Ball Runner</b></p>
             </a>
         </td>
-        <td width=35% valign="top">
-            Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias.
+        <td rowspan="1" width=35% valign="top">
+            Ball Runner foi o primeiro app que eu fiz sozinho. Ele foi baseado em um jogo que eu sempre gostei mas que só tinha pra Android. O objetivo é você fugir das bolinhas vermelhas. Quanto mais resistor maior é a sua pontuação.
         </td>
-        <td valign="top" align="center" width=15% rowspan="2">
+        <!-- The Midway -->
+        <td valign="top" align="center" width=15%>
             <a href="https://github.com/Gui25Reis/Coverless">
-                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
-                <p><b>Coverless</b></p>
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/>
+                <p><b>The Midway</b></p>
             </a>
         </td>
-        <td width=35% valign="top">
-            Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
+        <td rowspan="1" width=35% valign="top">
+            The Midway foi o primeiro app que eu fiquei animado por conta da ideia: um app que acha o ponto médio no mapa a partir dos endereços que você colocou. Assim você consegue saber a metade do caminho para poder sair com os sues amigos.
         </td>
     </tr>
     <tr>
-        <td align="center" height=20>
-            <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
-                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
+        <!-- Caminholas -->
+        <td valign="top" align="center" width=15%>
+            <a href="https://github.com/Gui25Reis/Inkolors">
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/>
+                <p><b>Caminholas</b></p>
             </a>
         </td>
-        <td align="center" height=20>
-            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
-                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
+        <td rowspan="1" width=35% valign="top">
+            Meu primeiro app fora da Academy. Um jogo de bebida. Esse app foi inspirado nos rolês que eu tive com os meus amigos. Sempre jogávamos esse jogo, mas no bloco de notas. Infelizmente a Apple não aceita esse app :/
+        </td>
+        <!-- Kaos Bot -->
+        <td valign="top" align="center" width=15%>
+            <a href="https://github.com/Gui25Reis/Coverless">
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo app KaosBot"/>
+                <p><b>Kaos Bot</b></p>
             </a>
+        </td>
+        <td rowspan="1" width=35% valign="top">
+            Esse foi o primeiro bot que eu mexi. Junto com meus amigos na época da pandemia criamos um bot caótico pra ficar usando nos server.
         </td>
     </tr>
 </table>
@@ -98,10 +112,10 @@
             <table width=50%>
                 <tr>
                     <td align="center">
-                        <!-- <a href="https://github.com/Gui25Reis/Inkolors"> -->
+                        <a href="https://github.com/Gui25Reis/Inkolors">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
                             <p><b>Inkolors</b></p>
-                        <!-- </a> -->
+                        </a>
                     </td>
                     <td rowspan="2" width = 350>
                         <p wrap>
@@ -227,7 +241,7 @@
         <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-Logo.png.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
         </td>
-            <td align="center">
+        <td align="center">
             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
         </td>
     </tr>
