@@ -56,12 +56,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center">
+        <td align="center" height=20>
             <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
             </a>
         </td>
-        <td align="center">
+        <td align="center" height=20>
             <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
             </a>
