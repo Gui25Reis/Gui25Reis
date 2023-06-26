@@ -1,4 +1,5 @@
 ## Apps/Programs created and collaborated
+
 <table>
     <!-- Inkolors -->
     <tr>
@@ -42,6 +43,61 @@
             </a>
         </td>
     </tr>
+</table>
+
+<table>
+<tr>
+<td>
+<table>
+<!-- Inkolors -->
+<tr>
+<td align="center" rowspan="2">
+<!-- <a href="https://github.com/Gui25Reis/Inkolors"> -->
+<img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
+<p><b>Inkolors</b></p>
+<!-- </a> -->
+</td>
+<td>
+<p>
+Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias. Assim, precisa colocar as cores no local certo, entendendo qual é a cor resultante.
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://apps.apple.com/us/app/inkolors/id1572342593">
+<img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+</a>
+</td>
+</tr>
+</table>
+</td>
+<!-- Coverless -->
+<td>
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Gui25Reis/Coverless">
+<img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
+<p><b>Coverless</b></p>
+</a>
+</td>
+<td rowspan="2">
+<p>
+Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
+<img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
 </table>
 
 
