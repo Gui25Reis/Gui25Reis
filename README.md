@@ -27,7 +27,7 @@
     <tr>
         <td align="center">
             <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
-                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png"/>
             </a>
         </td>
         <td align="center">
