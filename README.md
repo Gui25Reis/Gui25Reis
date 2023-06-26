@@ -9,18 +9,17 @@
                 <p><b>Inkolors</b></p>
             </a>
         </td>
-        <td rowspan="2" width=34.5% valign="top">
+        <td rowspan="2" width=35% valign="top">
             Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias.
         </td>
-        <td rowspan="2">
-        </td>
+        <!-- <td rowspan="2"></td> -->
         <td valign="top" align="center" width=15%>
             <a href="https://github.com/Gui25Reis/Coverless">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
                 <p><b>Coverless</b></p>
             </a>
         </td>
-        <td rowspan="2" width=34.5% valign="top">
+        <td rowspan="2" width=35% valign="top">
             Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
         </td>
     </tr>
