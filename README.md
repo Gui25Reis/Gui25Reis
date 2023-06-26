@@ -1,69 +1,27 @@
 ## Apps/Programs created and collaborated
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%;">
-      <table>
-        <thead>
-          <tr>
-            <th>Tabela 1</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Conteúdo da tabela 1</td>
-          </tr>
-          <tr>
-            <td>Mais conteúdo da tabela 1</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td style="width: 50%;">
-      <table>
-        <thead>
-          <tr>
-            <th>Tabela 2</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Conteúdo da tabela 2</td>
-          </tr>
-          <tr>
-            <td>Mais conteúdo da tabela 2</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
-
-
 <table>
     <!-- Inkolors -->
     <tr>
-        <td valign="top" align="center" width=50%>
+        <td valign="top" align="center" width=15%>
             <a href="https://github.com/Gui25Reis/Inkolors">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
                 <p><b>Inkolors</b></p>
             </a>
         </td>
-        <td rowspan="2">
+        <td rowspan="2" width=34.5%>
             Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias.
         </td>
         <td rowspan="2">
         </td>
-        <td align="center">
+        <td valign="top" align="center" width=15%>
             <a href="https://github.com/Gui25Reis/Coverless">
                 <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
                 <p><b>Coverless</b></p>
             </a>
         </td>
-        <td rowspan="2">
-            <p>
+        <td rowspan="2" width=34.5%>
                 Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
-            </p>
         </td>
     </tr>
     <tr>
@@ -87,10 +45,7 @@
             <table width=50%>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Inkolors">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"/>
-                            <p><b>Inkolors</b></p>
-                        </a>
+                        <a href="https://github.com/Gui25Reis/Inkolors"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"/><p><b>Inkolors</b></p></a>
                     </td>
                     <td rowspan="2" width=350 valign="top">
                         <p>
