@@ -212,6 +212,29 @@
                 </tr>
             </table>
         </td>
+        <!-- Kaos Bot -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/giangamberi/KaOS_Bot">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo do Kaos Bot"/>
+                        </a>
+                        <p><b>Kaos Bot</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Primeiro bot que eu trabalhei. Esse foi um bot para discord criado durante a pandemia juntos com os amigos de faculdade para causar nos servers rs. Ta ai o nome: caos.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/giangamberi/KaOS_Bot/releases/tag/v2.0">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <!-- >>>>>>>>>>>>>>>>>>>> Linha 02 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
