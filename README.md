@@ -278,7 +278,7 @@
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-blue-Pt.png" height=40/>
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
