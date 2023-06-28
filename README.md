@@ -4,7 +4,9 @@
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
+    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> 
+    <br/>Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a> & <a href="https://developer.apple.com/entrepreneur-camp/"> Apple Entrepreneur Camp</a>
+    <br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
