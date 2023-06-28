@@ -4,7 +4,7 @@
 <p align="center">
     I'm from São Bernardo do Campo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil"/> São Paulo 
     <br/>Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a> & <a href="https://developer.apple.com/entrepreneur-camp/"> Apple Entrepreneur Camp</a>
-    <br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
+    <br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/GuiReis_CV-pt.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/GuiReis_CV-en.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
@@ -256,6 +256,29 @@
                     <td>
                         <a href="https://kings-gui.notion.site/Caminholas-88a8027d54594057ab3d6867bf906cf1?pvs=4">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Testflight-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Maria Cacau -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo da Maria Cacau"/>
+                        </a>
+                        <p><b>Maria Cacau</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Esse foi um dos primeiros softwares que a cada nova versão gerada foi uma evolução minha na programação. Esse é um programa desktop para a empresa Maria Cacau que a ajuda a criar com um resumo dos pedidos que precisam ser feitos no período selecionado e os tipos de entregas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-blue-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
