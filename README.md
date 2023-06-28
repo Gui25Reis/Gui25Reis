@@ -1,10 +1,8 @@
-## Apps/Programs created and collaborated
-
 # Hi, I'm Gui! Welcome to my page <img src="https://raw.githubusercontent.com/Gui25Reis/Gui25Reis/main/images/_gifs/smile.gif" width="35px"/>
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> 
+    I'm from São Bernardo do Campo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil"/> São Paulo 
     <br/>Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a> & <a href="https://developer.apple.com/entrepreneur-camp/"> Apple Entrepreneur Camp</a>
     <br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
 </p>
@@ -269,6 +267,6 @@
 ----------
 ## My activity:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" height="175px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact" height="175px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" height="180px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact" height="180px"/>
 </p>
