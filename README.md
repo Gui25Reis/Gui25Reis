@@ -97,6 +97,29 @@
 <table>
     <!-- >>>>>>>>>>>>>>>>>>>> Linha 01 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
+        <!-- Hortali -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Hortali/Hortali-App">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Hortali-Logo.png"  alt="Logo app Hortali"/>
+                        </a>
+                        <p><b>Hortali</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Hortali é um app que tenho bastante orgulho! Seu propósito é ajudar pessoas que podem entrar em insegurança alimentar mostrando hortas orgânicas em SP e informações de alguns alimentos, como por exemplo a sasonalidade e vitaminas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/br/app/hortali/id6443548466">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
         <!-- Inkolors -->
         <td>
             <table>
@@ -114,29 +137,6 @@
                 <tr>
                     <td>
                         <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <!-- Coverless -->
-        <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/Gui25Reis/Coverless">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png" alt="Logo app Coverless"/>
-                        </a>
-                        <p><b>Coverless</b></p>
-                    </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
                         </a>
                     </td>
@@ -166,6 +166,29 @@
                 </tr>
             </table>
         </td>
+        <!-- Coverless -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Coverless">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png" alt="Logo app Coverless"/>
+                        </a>
+                        <p><b>Coverless</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <!-- >>>>>>>>>>>>>>>>>>>> Linha 02 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
@@ -174,7 +197,7 @@
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Coverless">
+                        <a href="https://github.com/The-Midway/TheMidway-App">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/>
                         </a>
                         <p><b>The Midway</b></p>
@@ -192,18 +215,41 @@
                 </tr>
             </table>
         </td>
+        <!-- Catch Fly -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/rebeccamello/Catch-Fly">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/CatchFly-Logo.png"  alt="Logo app Catch Fly"/>
+                        </a>
+                        <p><b>Catch Fly</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Catch Fly é um jogo completinho hypercasual. Na implementação tive o foco nos sons e Game Center principalmente. Porém nesse projeto eu foquei mais no GDD, a documentação de jogos. Foi dele inclusive que eu tirei o template para os meus readmes.
+                    </td> 
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/us/app/catch-fly-the-escape/id1615619928">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
         <!-- Caminholas -->
         <td>
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Inkolors">
+                        <a href="https://github.com/Gui25Reis/Drink-Game">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/>
                         </a>
                         <p><b>Caminholas</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        Meu primeiro app fora da Academy. Um jogo de bebida. Esse app foi inspirado nos rolês que eu tive com os meus amigos. Sempre jogávamos esse jogo, mas no bloco de notas. Infelizmente a Apple não aceita esse app :/
+                        Meu primeiro app fora da Apple Academy. Um jogo de bebida. Esse app foi inspirado nos rolês que eu tive com os meus amigos. Sempre jogávamos esse jogo, mas no bloco de notas. Infelizmente a Apple não aceita esse app :/
                     </td>
                 </tr>
                 <tr>
@@ -221,6 +267,6 @@
 ----------
 ## My activity:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" height="200px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" height="175px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact" height="175px"/>
 </p>
