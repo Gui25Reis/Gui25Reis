@@ -2,7 +2,9 @@
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
+    I'm from São Bernardo do Campo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil"/> São Paulo 
+    <br/>Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a> & <a href="https://developer.apple.com/entrepreneur-camp/"> Apple Entrepreneur Camp</a>
+    <br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/GuiReis_CV-pt.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/GuiReis_CV-en.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
@@ -33,19 +35,25 @@
     </a>
 </p>
 
+----------
 ## About me 😁
 <p align="justify">
-    I'm 21 years old and I'm a Computer Science student at Mackenzie Presbyterian University. I do software development in general with a focus on performance and performance. Constantly doing some design or exercise problems, learning more and also perfecting the languages and theories behind it. My current languages today are Python and Swift.
+    I'm 23 years old and I graduated from Universidade Presbiteriana Mackenzie in Computer Science.
+    <br/>I love what I do, I love studying about programming, solving problems, challenging myself and creating apps, which is also my area that I seek to work in: iOS developer.
+    <br/>Since the beginning of my studies, I've tried to apply good practices and always understand how things work: "why that", "how to do that".. Because of that I have a baggage of good practices and programming logic.
+    <br/>I focus on performance when writing code, thinking about different strategies to be able to bring the best solution, including being the subject of my final paper.
+    <br/>I also have a very strong practice in documentation and methodology, doing a Technological Initiation in this area during my college period.
 </p>
 
+----------
 ## My projects 😎
 <p align="justify">
-    Almost all repositories have a detailed readme. Some even have more advanced documentation on the wiki. The texts are always in Portuguese although the programming itself is in English. This is because there are few courses and tutorials in our language. The purpose of these repositories is as a portfolio but also to help those new to programming or the subject the repository is dealing with. Feel free to create an issue or give a star!!
+    I constantly study with personal projects looking for good code practices according to the current situation, always documenting and sharing these studies, from documents created by me or even articles.
+    <br/>Almost all repositories have a detailed readme. Some even have more advanced documentation on the wiki. The texts are always in Portuguese although the programming itself is in English. This is because there are few courses and tutorials in our language. The purpose of these repositories is as a portfolio but also to help those new to programming or the subject the repository is dealing with. Feel free to create an issue or give a star!!
 </p>
 
+----------
 ## My Development Stack
-
-<!-- Criando a tabela -->
 <table align="center" style="margin: 0px auto;">
     <tr>
         <td><h3 align="center">Aplication and Data</h3></td>
@@ -79,111 +87,279 @@
         <td>
             <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Tinkercad-png.png"/></a>
             <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/URI-quadrado.png"/></a>
+        </td>
     </tr>
 </table>
 
 <br/>
 
+----------
 ## Apps/Programs created and collaborated
 <table>
+    <!-- >>>>>>>>>>>>>>>>>>>> Linha 01 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png"  alt="Logo app Inkolors"/><p><b>Inkolors</b></p>
+        <!-- Hortali -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Hortali/Hortali-App">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Hortali-Logo.png"  alt="Logo app Hortali"/>
+                        </a>
+                        <p><b>Hortali</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Hortali é um app que tenho bastante orgulho! Seu propósito é ajudar pessoas que podem entrar em insegurança alimentar mostrando hortas orgânicas em SP e informações de alguns alimentos, como por exemplo a sasonalidade e vitaminas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/br/app/hortali/id6443548466">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </td>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png"  alt="Logo app Coverless"/>
-            <p><b>Coverless</b></p>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Ball_Runner-Logo.png"  alt="Logo app Ball Runner"/><p><b>Ball Runner</b></p>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/><p><b>The Midway</b></p>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/><p><b>Caminholas</b></p>
-        </td>
-            <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo app KaosBot"/><p><b>Kaos Bot</b></p>
-        </td>
-    </tr>
-    <tr>
         <!-- Inkolors -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Inkolors"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://apps.apple.com/us/app/inkolors/id1572342593"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
-        </td>
-        <!-- Coverless -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Coverless"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Inkolors">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Inkolors-logo.png" alt="Logo app Inkolors"/>
+                        </a>
+                        <p><b>Inkolors</b></p>
+                    </td>
+                    <td rowspan="2" width=400 valign="top">
+                        Inkolors foi meu primeiro app iOS. Ele é um jogo simples com o tema de: Teoria da Cores. O objetivo dele é identificar quais são as cores primárias, secundárias e terciárias. Assim, precisa colocar as cores no local certo, entendendo qual é a cor resultante.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </td>
         <!-- Ball Runner -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Ball-Runner"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://apps.apple.com/br/app/ball-runner/id1579613903"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Ball-Runner">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Ball_Runner-Logo.png"  alt="Logo app Ball Runner"/>
+                        </a>
+                        <p><b>Ball Runner</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Ball Runner foi o primeiro app que eu fiz sozinho. Ele foi baseado em um jogo que eu sempre gostei mas que só tinha pra Android. O objetivo é você fugir das bolinhas vermelhas. Quanto mais resistor maior é a sua pontuação.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/br/app/ball-runner/id1579613903">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </td>
+        <!-- Coverless -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Coverless">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png" alt="Logo app Coverless"/>
+                        </a>
+                        <p><b>Coverless</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Datas em Dias -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo do app Datas em Dias"/>
+                        </a>
+                        <p><b>Datas em Dias</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Essa aplicação desktop foi um projeto com o objetivo de juntar todo o conhecimento que eu tinha adquirido, aprofundamento nas boas práticas, aplicação desktop com UI, POO, PyQT, documentação... O propósito dele é pegar o intervalo em dias entre duas datas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases/download/1.0.0/_executavel_.1.0.rar">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Kaos Bot -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/giangamberi/KaOS_Bot">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo do Kaos Bot"/>
+                        </a>
+                        <p><b>Kaos Bot</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Primeiro bot que eu trabalhei. Esse foi um bot para discord criado durante a pandemia juntos com os amigos de faculdade para causar nos servers rs. Ta ai o nome: caos.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/giangamberi/KaOS_Bot/releases/tag/v2.0">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!-- >>>>>>>>>>>>>>>>>>>> Linha 02 <<<<<<<<<<<<<<<<<<<<<< -->
+    <tr>
         <!-- The Midway -->
-        <td align="center">
-            <a href="https://github.com/The-Midway/TheMidway"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://apps.apple.com/br/app/the-midway/id1599585926"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a>
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/The-Midway/TheMidway-App">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/>
+                        </a>
+                        <p><b>The Midway</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        The Midway foi o primeiro app que eu fiquei animado por conta da ideia: um app que acha o ponto médio no mapa a partir dos endereços que você colocou. Assim você consegue saber a metade do caminho para poder sair com os sues amigos.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/br/app/the-midway/id1599585926">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Catch Fly -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/rebeccamello/Catch-Fly">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/CatchFly-Logo.png"  alt="Logo app Catch Fly"/>
+                        </a>
+                        <p><b>Catch Fly</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Catch Fly é um jogo completinho hypercasual. Na implementação tive o foco nos sons e Game Center principalmente. Porém nesse projeto eu foquei mais no GDD, a documentação de jogos. Foi dele inclusive que eu tirei o template para os meus readmes.
+                    </td> 
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/us/app/catch-fly-the-escape/id1615619928">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </td>
         <!-- Caminholas -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Drink-Game"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <!-- <a href="https://apps.apple.com/us/app/caminholas/id1579190655"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/AppStore-quadrado.png"/></a> -->
-            <!-- <a href="https://testflight.apple.com/join/"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/TestFlight-quadrado.png"/></a> -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Drink-Game">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/>
+                        </a>
+                        <p><b>Caminholas</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Meu primeiro app fora da Apple Academy. Um jogo de bebida. Esse app foi inspirado nos rolês que eu tive com os meus amigos. Sempre jogávamos esse jogo, mas no bloco de notas. Infelizmente a Apple não aceita esse app :/
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://kings-gui.notion.site/Caminholas-88a8027d54594057ab3d6867bf906cf1?pvs=4">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Testflight-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </td>
-        <!-- KaosBot -->
-        <td align="center">
-            <a href="https://github.com/giangamberi/KaOS_Bot"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://github.com/giangamberi/KaOS_Bot/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
+        <!-- Maria Cacau -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo da Maria Cacau"/>
+                        </a>
+                        <p><b>Maria Cacau</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Esse foi um dos primeiros softwares que a cada nova versão gerada foi uma evolução minha na programação. Esse é um programa desktop para a empresa Maria Cacau que a ajuda a criar com um resumo dos pedidos que precisam ser feitos no período selecionado e os tipos de entregas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Base Convertor -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Mudanca-de-base">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Mudanca_Base-Logo.png"  alt="Logo do app Mudança de Base"/>
+                        </a>
+                        <p><b>Base Convertor</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Essa foi a primeira aplicação que eu fiz com interface gráfica. O app faz a conversão de bases de números inteiros. Esse assunto foi um dos primeiros que eu aprendi na computação. Foi muito interessante ver a evolução que ele teve!
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Mudanca-de-base/blob/main/arquivos/_executavel_%5B1.1.0%5D.rar">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </td>
     </tr>
 </table>
 
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Mudanca_Base-Logo.png"  alt="Logo app Mudança de Bases"/><p><b>Mudança de<br>Base</b></p>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo app Diferença de datas"/><p><b>Diferença de<br> Datas</b></p>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo app maria cacau contagem"/><p><b>MC Contagem<br></b></p>
-        </td>
-        <td align="center">
-            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/WWDC21-logo.png"  alt="Logo app WWDC21"/><p><b>WWDC21<br></b></p>
-        </td>
-    </tr>
-    <tr>
-        <!-- Mudança de Bases -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Mudanca-de-base"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://github.com/Gui25Reis/Mudanca-de-base/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
-        </td>
-        <!-- Diferença em Dias -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Diferenca-em-dias"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
-        </td>
-        <!-- Maria Cacau Contagem -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Windows-quadrado.png"/></a>
-        </td>
-        <!-- WWDC21 -->
-        <td align="center">
-            <a href="https://github.com/Gui25Reis/Swift-Student-Challenge-2021"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://github.com/Gui25Reis/Swift-Student-Challenge-2021/releases"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/SwiftPlaygrounds-quadrado.png"/></a>
-        </td>
-    </tr>
-</table>
-
-
+----------
 ## My activity:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" height="180px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact" height="180px"/>
 </p>
