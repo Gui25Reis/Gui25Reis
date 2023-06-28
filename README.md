@@ -38,7 +38,7 @@
 ----------
 ## About me 😁
 <p align="justify">
-    I'm 23 years old and I graduated from Universidade Presbiteriana Mackenzie in Computer Science and am an Apple Developer Academy | Mackenzie & Apple Entrepreneur Camp alumni.
+    I'm 23 years old and I graduated from Universidade Presbiteriana Mackenzie in Computer Science.
     <br/>I love what I do, I love studying about programming, solving problems, challenging myself and creating apps, which is also my area that I seek to work in: iOS developer.
     Since the beginning of my studies, I've tried to apply good practices and always understand how things work: "why that", "how to do that".. Because of that I have a baggage of good practices and programming logic.
     <br/>I focus on performance when writing code, thinking about different strategies to be able to bring the best solution, including being the subject of my final paper.
