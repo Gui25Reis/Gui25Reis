@@ -189,15 +189,15 @@
                 </tr>
             </table>
         </td>
-        <!-- Diferença em Dias -->
+        <!-- Datas em Dias -->
         <td>
             <table>
                 <tr>
                     <td align="center">
                         <a href="https://github.com/Gui25Reis/Diferenca-em-dias">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo do app Diferença em Dias"/>
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo do app Datas em Dias"/>
                         </a>
-                        <p><b>Diferença em Dias</b></p>
+                        <p><b>Datas em Dias</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
                         Essa aplicação desktop foi um projeto com o objetivo de juntar todo o conhecimento que eu tinha adquirido, aprofundamento nas boas práticas, aplicação desktop com UI, POO, PyQT, documentação... O propósito dele é pegar o intervalo em dias entre duas datas.
@@ -301,6 +301,29 @@
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Base Convertor -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Mudanca-de-base">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Mudanca_Base-Logo.png"  alt="Logo do app Mudança de Base"/>
+                        </a>
+                        <p><b>Base Convertor</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Essa foi a primeira aplicação que eu fiz com interface gráfica. O app faz a conversão de bases de números inteiros. Esse assunto foi um dos primeiros que eu aprendi na computação. Foi muito interessante ver a evolução que ele teve!
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Mudanca-de-base/blob/main/arquivos/_executavel_%5B1.1.0%5D.rar">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
                         </a>
                     </td>
