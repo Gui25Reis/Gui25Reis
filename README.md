@@ -189,6 +189,29 @@
                 </tr>
             </table>
         </td>
+        <!-- Diferença em Dias -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo do app Diferença em Dias"/>
+                        </a>
+                        <p><b>Diferença em Dias</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Essa aplicação desktop foi um projeto com o objetivo de juntar todo o conhecimento que eu tinha adquirido, aprofundamento nas boas práticas, aplicação desktop com UI, POO, PyQT, documentação... O propósito dele é pegar o intervalo em dias entre duas datas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases/download/1.0.0/_executavel_.1.0.rar">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <!-- >>>>>>>>>>>>>>>>>>>> Linha 02 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
