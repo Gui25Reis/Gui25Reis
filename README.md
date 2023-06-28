@@ -1,10 +1,10 @@
-## Apps/Programs created and collaborated
-
 # Hi, I'm Gui! Welcome to my page <img src="https://raw.githubusercontent.com/Gui25Reis/Gui25Reis/main/images/_gifs/smile.gif" width="35px"/>
 
 <!-- Introdução -->
 <p align="center">
-    I'm from São Bernardo do Campo - São Paulo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil" /> Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a>.<br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoPT.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/CurriculoEN.pdf">EN</a>
+    I'm from São Bernardo do Campo <img width="16" src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Brasil-quadrado.png" alt="Brazil"/> São Paulo 
+    <br/>Alumini at <a href="https://developeracademy.mackenzie.br/">Apple Developer Academy | Mackenzie</a> & <a href="https://developer.apple.com/entrepreneur-camp/"> Apple Entrepreneur Camp</a>
+    <br/>See my resume <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/GuiReis_CV-pt.pdf">PT</a> / <a href="https://github.com/Gui25Reis/Gui25Reis/blob/main/files/GuiReis_CV-en.pdf">EN</a>
 </p>
 
 <!-- Redes sociais -->
@@ -38,11 +38,11 @@
 ----------
 ## About me 😁
 <p align="justify">
-    I'm 23 years old and I graduated from Universidade Presbiteriana Mackenzie in Computer Science and am an Apple Developer Academy | Mackenzie & Apple Entrepreneur Camp alumni.
+    I'm 23 years old and I graduated from Universidade Presbiteriana Mackenzie in Computer Science.
     <br/>I love what I do, I love studying about programming, solving problems, challenging myself and creating apps, which is also my area that I seek to work in: iOS developer.
-    Since the beginning of my studies, I've tried to apply good practices and always understand how things work: "why that", "how to do that".. Because of that I have a baggage of good practices and programming logic.
+    <br/>Since the beginning of my studies, I've tried to apply good practices and always understand how things work: "why that", "how to do that".. Because of that I have a baggage of good practices and programming logic.
     <br/>I focus on performance when writing code, thinking about different strategies to be able to bring the best solution, including being the subject of my final paper.
-    <br/>I have a very strong practice in documentation and methodology, doing a Technological Initiation in this area during my college period.
+    <br/>I also have a very strong practice in documentation and methodology, doing a Technological Initiation in this area during my college period.
 </p>
 
 ----------
@@ -87,6 +87,7 @@
         <td>
             <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/Tinkercad-png.png"/></a>
             <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_icons/URI-quadrado.png"/></a>
+        </td>
     </tr>
 </table>
 
@@ -97,6 +98,29 @@
 <table>
     <!-- >>>>>>>>>>>>>>>>>>>> Linha 01 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
+        <!-- Hortali -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Hortali/Hortali-App">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Hortali-Logo.png"  alt="Logo app Hortali"/>
+                        </a>
+                        <p><b>Hortali</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Hortali é um app que tenho bastante orgulho! Seu propósito é ajudar pessoas que podem entrar em insegurança alimentar mostrando hortas orgânicas em SP e informações de alguns alimentos, como por exemplo a sasonalidade e vitaminas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/br/app/hortali/id6443548466">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
         <!-- Inkolors -->
         <td>
             <table>
@@ -114,29 +138,6 @@
                 <tr>
                     <td>
                         <a href="https://apps.apple.com/us/app/inkolors/id1572342593">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <!-- Coverless -->
-        <td>
-            <table>
-                <tr>
-                    <td align="center">
-                        <a href="https://github.com/Gui25Reis/Coverless">
-                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png" alt="Logo app Coverless"/>
-                        </a>
-                        <p><b>Coverless</b></p>
-                    </td>
-                    <td rowspan="2" width = 400 valign="top">
-                        Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
                         </a>
                     </td>
@@ -166,6 +167,75 @@
                 </tr>
             </table>
         </td>
+        <!-- Coverless -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Coverless">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Coverless-logo.png" alt="Logo app Coverless"/>
+                        </a>
+                        <p><b>Coverless</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Coverless foi um app com o objetivo de estudar a acessibilidade, desde seu propósito até as suas features. O app tem como objetivo indicar livros a partir das sinopse, sem olha a capa. Nesse app tive o foco com APIs principalmente.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/us/app/coverless-your-book-sugestion/id1587382412">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Datas em Dias -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Diferenca_Dias-Logo.png"  alt="Logo do app Datas em Dias"/>
+                        </a>
+                        <p><b>Datas em Dias</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Essa aplicação desktop foi um projeto com o objetivo de juntar todo o conhecimento que eu tinha adquirido, aprofundamento nas boas práticas, aplicação desktop com UI, POO, PyQT, documentação... O propósito dele é pegar o intervalo em dias entre duas datas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases/download/1.0.0/_executavel_.1.0.rar">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Kaos Bot -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/giangamberi/KaOS_Bot">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Kaos_Bot-Logo.png"  alt="Logo do Kaos Bot"/>
+                        </a>
+                        <p><b>Kaos Bot</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Primeiro bot que eu trabalhei. Esse foi um bot para discord criado durante a pandemia juntos com os amigos de faculdade para causar nos servers rs. Ta ai o nome: caos.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/giangamberi/KaOS_Bot/releases/tag/v2.0">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <!-- >>>>>>>>>>>>>>>>>>>> Linha 02 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
@@ -174,7 +244,7 @@
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Coverless">
+                        <a href="https://github.com/The-Midway/TheMidway-App">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/The_Midway-Logo.png"  alt="Logo app The Midway"/>
                         </a>
                         <p><b>The Midway</b></p>
@@ -192,18 +262,41 @@
                 </tr>
             </table>
         </td>
+        <!-- Catch Fly -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/rebeccamello/Catch-Fly">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/CatchFly-Logo.png"  alt="Logo app Catch Fly"/>
+                        </a>
+                        <p><b>Catch Fly</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Catch Fly é um jogo completinho hypercasual. Na implementação tive o foco nos sons e Game Center principalmente. Porém nesse projeto eu foquei mais no GDD, a documentação de jogos. Foi dele inclusive que eu tirei o template para os meus readmes.
+                    </td> 
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://apps.apple.com/us/app/catch-fly-the-escape/id1615619928">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/AppStore-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
         <!-- Caminholas -->
         <td>
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Inkolors">
+                        <a href="https://github.com/Gui25Reis/Drink-Game">
                             <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Caminholas-logo.png"  alt="Logo app Caminholas"/>
                         </a>
                         <p><b>Caminholas</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        Meu primeiro app fora da Academy. Um jogo de bebida. Esse app foi inspirado nos rolês que eu tive com os meus amigos. Sempre jogávamos esse jogo, mas no bloco de notas. Infelizmente a Apple não aceita esse app :/
+                        Meu primeiro app fora da Apple Academy. Um jogo de bebida. Esse app foi inspirado nos rolês que eu tive com os meus amigos. Sempre jogávamos esse jogo, mas no bloco de notas. Infelizmente a Apple não aceita esse app :/
                     </td>
                 </tr>
                 <tr>
@@ -215,12 +308,58 @@
                 </tr>
             </table>
         </td>
+        <!-- Maria Cacau -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Maria_Cacau-Logo.png"  alt="Logo da Maria Cacau"/>
+                        </a>
+                        <p><b>Maria Cacau</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Esse foi um dos primeiros softwares que a cada nova versão gerada foi uma evolução minha na programação. Esse é um programa desktop para a empresa Maria Cacau que a ajuda a criar com um resumo dos pedidos que precisam ser feitos no período selecionado e os tipos de entregas.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <!-- Base Convertor -->
+        <td>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://github.com/Gui25Reis/Mudanca-de-base">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/_apps/Mudanca_Base-Logo.png"  alt="Logo do app Mudança de Base"/>
+                        </a>
+                        <p><b>Base Convertor</b></p>
+                    </td>
+                    <td rowspan="2" width = 400 valign="top">
+                        Essa foi a primeira aplicação que eu fiz com interface gráfica. O app faz a conversão de bases de números inteiros. Esse assunto foi um dos primeiros que eu aprendi na computação. Foi muito interessante ver a evolução que ele teve!
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://github.com/Gui25Reis/Mudanca-de-base/blob/main/arquivos/_executavel_%5B1.1.0%5D.rar">
+                            <img src="https://github.com/Gui25Reis/Gui25Reis/blob/main/images/Wndowns-black-Pt.png" height=40/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 
 ----------
 ## My activity:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" height="200px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gui25reis&show_icons=true&theme=onedark" height="180px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gui25reis&amp;theme=dark&layout=compact" height="180px"/>
 </p>
