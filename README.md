@@ -25,6 +25,10 @@
     <a href="https://medium.com/@kings_25g">
         <img src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white" />
     </a>
+<!-- Stackoverflow -->
+    <a href="https://stackoverflow.com/users/13974761/gui-reis">
+        <img src="https://img.shields.io/badge/Stackoverflow-F48024?&style=flat-square&logo=Stackoverflow&logoColor=white" />
+    </a>
 <!-- App Store -->
     <a href="https://apps.apple.com/br/developer/guilherme-reis/id1572342595">
         <img src="https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white" />
