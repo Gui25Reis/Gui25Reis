@@ -13,13 +13,9 @@
     <a href="https://www.instagram.com/kings_25g/">
         <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
     </a>
-<!-- Facebook -->
-    <a href="https://www.facebook.com/kings25g/">
-        <img src="https://img.shields.io/badge/Facebook-3b5998?&style=flat-square&logo=facebook&logoColor=white" />
-    </a>
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/guilherme-santiago-reis">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linkedin-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
     </a>
 <!-- Medium -->
     <a href="https://medium.com/@kings_25g">
@@ -42,18 +38,17 @@
 ----------
 ## About me 😁
 <p align="justify">
-    I'm 25 years old and I graduated from Universidade Presbiteriana Mackenzie in Computer Science.
-    <br/>I love what I do, I love studying about programming, solving problems, challenging myself and creating apps, which is also my area that I seek to work in: iOS developer.
-    <br/>Since the beginning of my studies, I've tried to apply good practices and always understand how things work: "why that", "how to do that".. Because of that I have a baggage of good practices and programming logic.
-    <br/>I focus on performance when writing code, thinking about different strategies to be able to bring the best solution, including being the subject of my final paper.
-    <br/>I also have a very strong practice in documentation and methodology, doing a Technological Initiation in this area during my college period.
+    I’m a 25-year-old iOS Developer with a degree in Computer Science from Universidade Presbiteriana Mackenzie. I’m passionate about building applications, solving complex problems, and continuously improving my technical skills.
+    <br/><br/>Since the beginning of my journey, I’ve focused on understanding not only how to build solutions, but why they work. This approach helped me develop a strong foundation in clean code, best practices, and solid programming logic.
+    <br/><br/>I have a strong focus on performance, always evaluating different strategies to deliver efficient and scalable solutions — a topic I also explored in my final thesis. I’m also experienced in documentation and development methodologies, having worked on a Technological Initiation project focused on structured documentation during my college years.
 </p>
 
 ----------
 ## My projects 😎
 <p align="justify">
-    I constantly study through personal projects, always looking for the most suitable good practices for each context and documenting what I learn in articles and self-made guides.
-    <br/>Almost every repository has a detailed README, and some go further with full wikis. Most of that documentation started in Portuguese because there are few courses and tutorials in Brazilian Portuguese, but I'm translating everything to reach more people. These repositories work as a portfolio and as a way to help anyone new to programming or curious about the topics inside. Feel free to open an issue or leave a star!!
+    I continuously study through personal projects, always seeking the most suitable best practices for each context and documenting what I learn in articles and self-made guides.
+    <br/><br/>Most of my repositories include detailed READMEs, and some go further with full wikis. Much of this content was initially written in Portuguese due to the limited availability of high-quality materials in Brazilian Portuguese, but I’m currently translating everything to reach a broader audience.
+    <br/><br/>These repositories serve both as a portfolio and as a way to help others who are starting in programming or are curious about the topics. Feel free to open an issue or leave a star!
 </p>
 
 ----------
