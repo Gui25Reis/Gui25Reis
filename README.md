@@ -13,10 +13,6 @@
     <a href="https://www.instagram.com/kings_25g/">
         <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
     </a>
-<!-- Facebook -->
-    <a href="https://www.facebook.com/kings25g/">
-        <img src="https://img.shields.io/badge/Facebook-3b5998?&style=flat-square&logo=facebook&logoColor=white" />
-    </a>
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/guilherme-santiago-reis">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
@@ -60,37 +56,70 @@
 ## My Development Stack
 <table align="center" style="margin: 0px auto;">
     <tr>
-        <td><h3 align="center">Application and Data</h3></td>
-        <td><h3 align="center">DevOps</h3></td>
-        <td><h3 align="center">Utilities</h3></td>
-        <td><h3 align="center">Other</h3></td>
+        <td><h4 align="center">Languages</h4></td>
+        <td>
+            <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-366D9C?style=flat-square&logo=python&logoColor=white"/></a>
+            <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-76808D?style=flat-square&logo=c&logoColor=white"/></a>
+            <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-284F81?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+            <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-293036?style=flat-square&logo=gnubash&logoColor=white"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+            <a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>
+            <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+        </td>
     </tr>
     <tr>
+        <td><h4 align="center">Frameworks</h4></td>
         <td>
-            <img src="images/_icons/Swift-quadrado.png"/>
-            <img src="images/_icons/Pyhon-quadrada.png"/>
-            <img src="images/_icons/C-quadrada.png"/>
-            <img src="images/_icons/Cpp-quadrada.png"/>
-            <img src="images/_icons/HTML-quadrado.png"/>
-            <img src="images/_icons/Markdown-quadrado.png"/>
-            <a href="https://www.mysql.com/"><img src="images/_icons/MySQL.png"/></a>
+            <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-004EAB?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://developer.apple.com/documentation/uikit"><img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/></a>
+            <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
         </td>
+    </tr>
+    <tr>
+        <td><h4 align="center">DevOps</h4></td>
         <td>
-            <a href="https://github.com/Gui25Reis"><img src="images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://git-scm.com/"><img src="images/_icons/Git-quadrada.png"/></a>
-            <a href="https://code.visualstudio.com/"><img src="images/_icons/VsCode-quadrado.png"/></a>
-            <a href="https://apps.apple.com/br/app/xcode/id497799835"><img src="images/_icons/XCode-quadrado.png"/></a>
-            <a href="https://www.apple.com/br/swift/playgrounds/"><img src="images/_icons/SwiftPlaygrounds-quadrado.png"/></a>
+            <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+            <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+            <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=githubactions&logoColor=white"/></a>
+            <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-335060?style=flat-square&logo=jenkins&logoColor=white"/></a>
+            <a href="https://bitrise.io"><img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=bitrise&logoColor=white"/></a>
+            <a href="https://fastlane.tools"><img src="https://img.shields.io/badge/Fastlane-87B751?style=flat-square&logo=fastlane&logoColor=white"/></a>
+            <a href="https://cocoapods.org"><img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white"/></a>
+            <a href="https://www.swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://tuist.io"><img src="https://img.shields.io/badge/Tuist-6236FF?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+            <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-186CF9?style=flat-square&logo=xcode&logoColor=white"/></a>
+            <a href="https://www.apple.com/swift/playgrounds/"><img src="https://img.shields.io/badge/Swift_Playgrounds-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
         </td>
+    </tr>
+    <tr>
+        <td><h4 align="center">Utilities</h4></td>
         <td>
-            <img src="images/_icons/Adobe-quadrado.png"/>
-            <a href="https://www.qt.io/"><img src="images/_icons/QtDesigner-png.png"/></a>
-            <a href="https://www.notion.so/product"><img src="images/_icons/Notion-quadrado.png"/></a>
-            <a href="https://www.figma.com/"><img src="images/_icons/Figma-quadrado.png"/></a>
+            <a href="https://www.adobe.com"><img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white"/></a>
+            <a href="https://www.qt.io"><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>
+            <a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+            <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-303030?style=flat-square&logo=figma&logoColor=white"/></a>
+            <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white"/></a>
         </td>
+    </tr>
+    <tr>
+        <td><h4 align="center">AI</h4></td>
         <td>
-            <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="images/_icons/Tinkercad-png.png"/></a>
-            <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="images/_icons/URI-quadrado.png"/></a>
+            <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/></a>
+            <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=chatgpt&logoColor=white"/></a>
+            <a href="https://www.notion.so/product/ai"><img src="https://img.shields.io/badge/Notion_AI-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+            <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/></a>
+            <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td><h4 align="center">Learning</h4></td>
+        <td>
+            <a href="https://leetcode.com/u/gui25reis/"><img src="https://img.shields.io/badge/LeetCode-E99930?style=flat-square&logo=leetcode&logoColor=white"/></a>
+            <a href="https://www.hackerrank.com/profile/gui_sreis25"><img src="https://img.shields.io/badge/HackerRank-56BB62?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+            <a href="https://judge.beecrowd.com/pt/profile/318386"><img src="https://img.shields.io/badge/Beecrowd-2D8CFF?style=flat-square&logoColor=white"/></a>
+            <a href="https://www.tinkercad.com"><img src="https://img.shields.io/badge/Tinkercad-0696D7?style=flat-square&logo=autodesk&logoColor=white"/></a>
         </td>
     </tr>
 </table>
