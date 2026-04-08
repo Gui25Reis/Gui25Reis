@@ -8,37 +8,16 @@
 </p>
 
 <!-- Social media -->
-<p align="center">
-<!-- Instagram -->
-    <a href="https://www.instagram.com/kings_25g/">
-        <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
-    </a>
-<!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/guilherme-santiago-reis">
-        <img src="https://img.shields.io/badge/Linkedin-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-<!-- Medium -->
-    <a href="https://medium.com/@kings_25g">
-        <img src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white" />
-    </a>
-<!-- App Store -->
-    <a href="https://apps.apple.com/br/developer/guilherme-reis/id1572342595">
-        <img src="https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white" />
-    </a>
-<!-- StackOverflow -->
-    <a href="https://stackoverflow.com/users/13974761/gui-reis">
-        <img src="https://img.shields.io/badge/StackOverflow-F48024?&style=flat-square&logo=stackoverflow&logoColor=white" />
-    </a>
-<!-- Linktree -->
-    <a href="https://linktr.ee/kings_25g">
-        <img src="https://img.shields.io/badge/Linktree-43E660?&style=flat-square&logo=Linktree&logoColor=white" />
-    </a>
-</p>
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kings_25g/) <!--   Linkedin   --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santiago-reis) <!--   Medium   --> [![Medium](https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kings_25g) <!--   AppStore   --> [![AppStore](https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white)](https://apps.apple.com/br/developer/guilherme-reis/id1572342595) <!--   StackOverflow   --> [![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?&style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13974761/gui-reis) <!--   Linktree   --> [![Linktree](https://img.shields.io/badge/Linktree-43E660?&style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/kings_25g)<br>[![LeetCode](https://img.shields.io/badge/LeetCode-E99930?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/gui25reis/) [![HackerRank](https://img.shields.io/badge/HackerRank-56BB62?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gui_sreis25) [![Beecrowd](https://img.shields.io/badge/Beecrowd-542875?style=flat-square&logoColor=white)](https://judge.beecrowd.com/pt/profile/318386)
+
+</div>
 
 ----------
 ## About me 😁
 <p align="justify">
-    I’m a 25-year-old iOS Developer with a degree in Computer Science from Universidade Presbiteriana Mackenzie. I’m passionate about building applications, solving complex problems, and continuously improving my technical skills.
+    I’m a 25 year old iOS Developer with a degree in Computer Science from Universidade Presbiteriana Mackenzie. I’m passionate about building applications, solving complex problems, and continuously improving my technical skills.
     <br/><br/>Since the beginning of my journey, I’ve focused on understanding not only how to build solutions, but why they work. This approach helped me develop a strong foundation in clean code, best practices, and solid programming logic.
     <br/><br/>I have a strong focus on performance, always evaluating different strategies to deliver efficient and scalable solutions — a topic I also explored in my final thesis. I’m also experienced in documentation and development methodologies, having worked on a Technological Initiation project focused on structured documentation during my college years.
 </p>
@@ -55,37 +34,61 @@
 ## My Development Stack
 <table align="center" style="margin: 0px auto;">
     <tr>
-        <td><h3 align="center">Application and Data</h3></td>
-        <td><h3 align="center">DevOps</h3></td>
-        <td><h3 align="center">Utilities</h3></td>
-        <td><h3 align="center">Other</h3></td>
+        <td><h4 align="center">Languages</h4></td>
+        <td>
+            <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-366D9C?style=flat-square&logo=python&logoColor=white"/></a>
+            <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-76808D?style=flat-square&logo=c&logoColor=white"/></a>
+            <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-284F81?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+            <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-293036?style=flat-square&logo=gnubash&logoColor=white"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+            <a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>
+            <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+        </td>
     </tr>
     <tr>
+        <td><h4 align="center">Frameworks</h4></td>
         <td>
-            <img src="images/_icons/Swift-quadrado.png"/>
-            <img src="images/_icons/Pyhon-quadrada.png"/>
-            <img src="images/_icons/C-quadrada.png"/>
-            <img src="images/_icons/Cpp-quadrada.png"/>
-            <img src="images/_icons/HTML-quadrado.png"/>
-            <img src="images/_icons/Markdown-quadrado.png"/>
-            <a href="https://www.mysql.com/"><img src="images/_icons/MySQL.png"/></a>
+            <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-004EAB?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://developer.apple.com/documentation/uikit"><img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/></a>
+            <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
         </td>
+    </tr>
+    <tr>
+        <td><h4 align="center">DevOps</h4></td>
         <td>
-            <a href="https://github.com/Gui25Reis"><img src="images/_icons/GitHub-quadrado.png"/></a>
-            <a href="https://git-scm.com/"><img src="images/_icons/Git-quadrada.png"/></a>
-            <a href="https://code.visualstudio.com/"><img src="images/_icons/VsCode-quadrado.png"/></a>
-            <a href="https://apps.apple.com/br/app/xcode/id497799835"><img src="images/_icons/XCode-quadrado.png"/></a>
-            <a href="https://www.apple.com/br/swift/playgrounds/"><img src="images/_icons/SwiftPlaygrounds-quadrado.png"/></a>
+            <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+            <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+            <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&logo=githubactions&logoColor=white"/></a>
+            <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-335060?style=flat-square&logo=jenkins&logoColor=white"/></a>
+            <a href="https://bitrise.io"><img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=bitrise&logoColor=white"/></a>
+            <a href="https://fastlane.tools"><img src="https://img.shields.io/badge/Fastlane-87B751?style=flat-square&logo=fastlane&logoColor=white"/></a>
+            <a href="https://cocoapods.org"><img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white"/></a>
+            <a href="https://www.swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://tuist.io"><img src="https://img.shields.io/badge/Tuist-6236FF?style=flat-square&logo=swift&logoColor=white"/></a>
+            <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+            <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-186CF9?style=flat-square&logo=xcode&logoColor=white"/></a>
+            <a href="https://www.apple.com/swift/playgrounds/"><img src="https://img.shields.io/badge/Swift_Playgrounds-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
         </td>
+    </tr>
+    <tr>
+        <td><h4 align="center">Utilities</h4></td>
         <td>
-            <img src="images/_icons/Adobe-quadrado.png"/>
-            <a href="https://www.qt.io/"><img src="images/_icons/QtDesigner-png.png"/></a>
-            <a href="https://www.notion.so/product"><img src="images/_icons/Notion-quadrado.png"/></a>
-            <a href="https://www.figma.com/"><img src="images/_icons/Figma-quadrado.png"/></a>
+            <a href="https://www.adobe.com"><img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white"/></a>
+            <a href="https://www.qt.io"><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>
+            <a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+            <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-303030?style=flat-square&logo=figma&logoColor=white"/></a>
+            <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white"/></a>
         </td>
+    </tr>
+    <tr>
+        <td><h4 align="center">AI</h4></td>
         <td>
-            <a href="https://www.tinkercad.com/users/4f5dpZ494Qs-kings25g?category=circuits&sort=likes&view_mode=default"><img src="images/_icons/Tinkercad-png.png"/></a>
-            <a href="https://www.urionlinejudge.com.br/judge/pt/profile/318386"><img src="images/_icons/URI-quadrado.png"/></a>
+            <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/></a>
+            <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=chatgpt&logoColor=white"/></a>
+            <a href="https://www.notion.so/product/ai"><img src="https://img.shields.io/badge/Notion_AI-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+            <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/></a>
+            <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/></a>
         </td>
     </tr>
 </table>
@@ -93,7 +96,7 @@
 <br/>
 
 ----------
-## Apps and Programs I Built or Collaborated On
+## Apps and programs (portfolio)
 <table>
     <!-- >>>>>>>>>>>>>>>>>>>> Row 01 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
@@ -200,13 +203,13 @@
                         <p><b>Datas em Dias</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        This desktop application brought together everything I had learned so far: best practices, desktop UI, OOP, PyQT, documentation... Its purpose is to calculate the interval in days between two selected dates.
+                        This desktop application brought together everything I had learned so far: best practices, desktop UI, OOP, PyQt, documentation... Its purpose is to calculate the interval in days between two selected dates.
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases/download/1.0.0/_executavel_.1.0.rar">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
@@ -229,7 +232,7 @@
                 <tr>
                     <td>
                         <a href="https://github.com/giangamberi/KaOS_Bot/releases/tag/v2.0">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
@@ -324,7 +327,7 @@
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
@@ -347,7 +350,7 @@
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Mudanca-de-base/blob/main/arquivos/_executavel_%5B1.1.0%5D.rar">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
@@ -355,6 +358,144 @@
         </td>
     </tr>
 </table>
+
+<br/>
+
+----------
+## Honorable Mentions
+
+### Studies
+<table>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/Kings-Study">Kings Study</a></h4>
+                        <p>Personal repository for studying programming concepts, languages, and problem-solving across different contexts.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                            <img src="https://img.shields.io/badge/HackerRank-56BB62?style=flat-square&logo=hackerrank&logoColor=white"/>
+                            <img src="https://img.shields.io/badge/LeetCode-E99930?style=flat-square&logo=leetcode&logoColor=white"/>
+                            <img src="https://img.shields.io/badge/Beecrowd-542875?style=flat-square&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/Aulas-Academy">Aulas Academy</a></h4>
+                        <p>Practices, studies and classes from the Apple Developer Academy period.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+### Company Technical Challenges
+<table>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/Novibet-Challenge">Novibet</a></h4>
+                        <p>Consuming a live sports API with match headlines and real-time timer updates per game.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/Itau-Challenge">Itaú</a></h4>
+                        <p>Consuming the Marvel characters API with CoreData caching and encrypted local storage.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/Stone-Challenge">Stone</a></h4>
+                        <p>Consuming the Rick and Morty API, listing characters with filtering support.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+### Other Projects
+<table>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/PontoInTime-App">Ponto In Time</a></h4>
+                        <p>Work timesheet utility that tracks daily hours worked, saves receipt photos, and calculates clock-out times.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/ImperioPratas-MedidorAnel">Império Pratas</a></h4>
+                        <p>Ring measurement app with a size table, conversions, and Brazilian sizing for the Império Pratas jewelry company.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<br/>
 
 ----------
 ## My activity:
