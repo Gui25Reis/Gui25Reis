@@ -17,7 +17,7 @@
 ----------
 ## About me 😁
 <p align="justify">
-    I’m a 25-year-old iOS Developer with a degree in Computer Science from Universidade Presbiteriana Mackenzie. I’m passionate about building applications, solving complex problems, and continuously improving my technical skills.
+    I’m a 25 year old iOS Developer with a degree in Computer Science from Universidade Presbiteriana Mackenzie. I’m passionate about building applications, solving complex problems, and continuously improving my technical skills.
     <br/><br/>Since the beginning of my journey, I’ve focused on understanding not only how to build solutions, but why they work. This approach helped me develop a strong foundation in clean code, best practices, and solid programming logic.
     <br/><br/>I have a strong focus on performance, always evaluating different strategies to deliver efficient and scalable solutions — a topic I also explored in my final thesis. I’m also experienced in documentation and development methodologies, having worked on a Technological Initiation project focused on structured documentation during my college years.
 </p>
