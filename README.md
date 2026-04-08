@@ -10,7 +10,7 @@
 <!-- Social media -->
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kings_25g/) <!--   Linkedin   --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santiago-reis) <!--   Medium   --> [![Medium](https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kings_25g) <!--   AppStore   --> [![AppStore](https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white)](https://apps.apple.com/br/developer/guilherme-reis/id1572342595) <!--   StackOverflow   --> [![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?&style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13974761/gui-reis) <!--   Linktree   --> [![Linktree](https://img.shields.io/badge/Linktree-43E660?&style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/kings_25g)
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kings_25g/) <!--   Linkedin   --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santiago-reis) <!--   Medium   --> [![Medium](https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kings_25g) <!--   AppStore   --> [![AppStore](https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white)](https://apps.apple.com/br/developer/guilherme-reis/id1572342595) <!--   StackOverflow   --> [![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?&style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13974761/gui-reis) <!--   Linktree   --> [![Linktree](https://img.shields.io/badge/Linktree-43E660?&style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/kings_25g)<br>[![LeetCode](https://img.shields.io/badge/LeetCode-E99930?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/gui25reis/) [![HackerRank](https://img.shields.io/badge/HackerRank-56BB62?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gui_sreis25) [![Beecrowd](https://img.shields.io/badge/Beecrowd-542875?style=flat-square&logoColor=white)](https://judge.beecrowd.com/pt/profile/318386)
 
 </div>
 
@@ -89,15 +89,6 @@
             <a href="https://www.notion.so/product/ai"><img src="https://img.shields.io/badge/Notion_AI-000000?style=flat-square&logo=notion&logoColor=white"/></a>
             <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/></a>
             <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td><h4 align="center">Learning</h4></td>
-        <td>
-            <a href="https://leetcode.com/u/gui25reis/"><img src="https://img.shields.io/badge/LeetCode-E99930?style=flat-square&logo=leetcode&logoColor=white"/></a>
-            <a href="https://www.hackerrank.com/profile/gui_sreis25"><img src="https://img.shields.io/badge/HackerRank-56BB62?style=flat-square&logo=hackerrank&logoColor=white"/></a>
-            <a href="https://judge.beecrowd.com/pt/profile/318386"><img src="https://img.shields.io/badge/Beecrowd-2D8CFF?style=flat-square&logoColor=white"/></a>
-            <a href="https://www.tinkercad.com"><img src="https://img.shields.io/badge/Tinkercad-0696D7?style=flat-square&logo=autodesk&logoColor=white"/></a>
         </td>
     </tr>
 </table>
