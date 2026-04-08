@@ -8,32 +8,11 @@
 </p>
 
 <!-- Social media -->
-<p align="center">
-<!-- Instagram -->
-    <a href="https://www.instagram.com/kings_25g/">
-        <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
-    </a>
-<!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/guilherme-santiago-reis">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-<!-- Medium -->
-    <a href="https://medium.com/@kings_25g">
-        <img src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white" />
-    </a>
-<!-- App Store -->
-    <a href="https://apps.apple.com/br/developer/guilherme-reis/id1572342595">
-        <img src="https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white" />
-    </a>
-<!-- StackOverflow -->
-    <a href="https://stackoverflow.com/users/13974761/gui-reis">
-        <img src="https://img.shields.io/badge/StackOverflow-F48024?&style=flat-square&logo=stackoverflow&logoColor=white" />
-    </a>
-<!-- Linktree -->
-    <a href="https://linktr.ee/kings_25g">
-        <img src="https://img.shields.io/badge/Linktree-43E660?&style=flat-square&logo=Linktree&logoColor=white" />
-    </a>
-</p>
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kings_25g/) <!--   Linkedin   --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santiago-reis) <!--   Medium   --> [![Medium](https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kings_25g) <!--   AppStore   --> [![AppStore](https://img.shields.io/badge/AppStore-2076F3?&style=flat-square&logo=AppStore&logoColor=white)](https://apps.apple.com/br/developer/guilherme-reis/id1572342595) <!--   StackOverflow   --> [![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?&style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13974761/gui-reis) <!--   Linktree   --> [![Linktree](https://img.shields.io/badge/Linktree-43E660?&style=flat-square&logo=Linktree&logoColor=white)](https://linktr.ee/kings_25g)
+
+</div>
 
 ----------
 ## About me 😁
