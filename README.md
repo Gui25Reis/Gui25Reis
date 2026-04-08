@@ -15,7 +15,7 @@
     </a>
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/guilherme-santiago-reis">
-        <img src="https://img.shields.io/badge/Linkedin-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
     </a>
 <!-- Medium -->
     <a href="https://medium.com/@kings_25g">
@@ -233,13 +233,13 @@
                         <p><b>Datas em Dias</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        This desktop application brought together everything I had learned so far: best practices, desktop UI, OOP, PyQT, documentation... Its purpose is to calculate the interval in days between two selected dates.
+                        This desktop application brought together everything I had learned so far: best practices, desktop UI, OOP, PyQt, documentation... Its purpose is to calculate the interval in days between two selected dates.
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Diferenca-em-dias/releases/download/1.0.0/_executavel_.1.0.rar">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
@@ -262,7 +262,7 @@
                 <tr>
                     <td>
                         <a href="https://github.com/giangamberi/KaOS_Bot/releases/tag/v2.0">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
@@ -357,7 +357,7 @@
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
@@ -380,7 +380,7 @@
                 <tr>
                     <td>
                         <a href="https://github.com/Gui25Reis/Mudanca-de-base/blob/main/arquivos/_executavel_%5B1.1.0%5D.rar">
-                            <img src="images/Wndowns-black-Pt.png" height=40/>
+                            <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
                 </tr>
