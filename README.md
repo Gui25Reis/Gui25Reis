@@ -96,7 +96,7 @@
 <br/>
 
 ----------
-## Apps and Programs I Built or Collaborated On
+## Apps and programs i built or collaborated on
 <table>
     <!-- >>>>>>>>>>>>>>>>>>>> Row 01 <<<<<<<<<<<<<<<<<<<<<< -->
     <tr>
@@ -358,6 +358,77 @@
         </td>
     </tr>
 </table>
+
+<br/>
+
+----------
+## Honorable Mentions
+
+### Studies
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <h4><a href="https://github.com/Gui25Reis/Kings-Study">Kings Study</a></h4>
+            <p>Personal repository for studying programming concepts, languages, and problem-solving across different contexts.</p>
+            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HackerRank-56BB62?style=flat-square&logo=hackerrank&logoColor=white"/>
+            <img src="https://img.shields.io/badge/LeetCode-E99930?style=flat-square&logo=leetcode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Beecrowd-542875?style=flat-square&logoColor=white"/>
+        </td>
+        <td width="50%" valign="top">
+            <h4><a href="https://github.com/Gui25Reis/Aulas-Academy">Aulas Academy</a></h4>
+            <p>Practices, studies and classes from the Apple Developer Academy period.</p>
+            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+        </td>
+    </tr>
+</table>
+
+### Company Technical Challenges
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <h4><a href="https://github.com/Gui25Reis/Novibet-Challenge">Novibet</a></h4>
+            <p>Consuming a live sports API with match headlines and real-time timer updates per game.</p>
+            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+            <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+        </td>
+        <td width="50%" valign="top">
+            <h4><a href="https://github.com/Gui25Reis/Itau-Challenge">Itaú</a></h4>
+            <p>Consuming the Marvel characters API with CoreData caching and encrypted local storage.</p>
+            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+            <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <h4><a href="https://github.com/Gui25Reis/Stone-Challenge">Stone</a></h4>
+            <p>Consuming the Rick and Morty API, listing characters with filtering support.</p>
+            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+            <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+        </td>
+        <td></td>
+    </tr>
+</table>
+
+### Early Projects
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <h4><a href="https://github.com/Gui25Reis/PontoInTime-App">Ponto In Time</a></h4>
+            <p>Work timesheet utility that tracks daily hours worked, saves receipt photos, and calculates clock-out times.</p>
+            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+            <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+        </td>
+        <td width="50%" valign="top">
+            <h4><a href="https://github.com/Gui25Reis/ImperioPratas-MedidorAnel">Império Pratas</a></h4>
+            <p>Ring measurement app with a size table, conversions, and Brazilian sizing for the Império Pratas jewelry company.</p>
+            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+            <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+        </td>
+    </tr>
+</table>
+
+<br/>
 
 ----------
 ## My activity:
