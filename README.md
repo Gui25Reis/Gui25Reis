@@ -364,7 +364,7 @@
 ----------
 ## Honorable Mentions
 
-### Studies
+### Studies & Challenges
 <table>
     <tr>
         <td>
@@ -389,6 +389,23 @@
             <table>
                 <tr>
                     <td height="150" width="400" valign="top">
+                        <h4><a href="https://github.com/Gui25Reis/Technical-Challenges">Technical Challenges</a></h4>
+                        <p>Centralized repository for technical challenges from selection processes I have participated in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                            <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+                            <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
+                            <img src="https://img.shields.io/badge/HackerRank-56BB62?style=flat-square&logo=hackerrank&logoColor=white"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td height="150" width="400" valign="top">
                         <h4><a href="https://github.com/Gui25Reis/Aulas-Academy">Aulas Academy</a></h4>
                         <p>Practices, studies and classes from the Apple Developer Academy period.</p>
                     </td>
@@ -396,60 +413,6 @@
                 <tr>
                     <td valign="middle">
                         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-
-### Company Technical Challenges
-<table>
-    <tr>
-        <td>
-            <table>
-                <tr>
-                    <td height="150" width="400" valign="top">
-                        <h4><a href="https://github.com/Gui25Reis/Novibet-Challenge">Novibet</a></h4>
-                        <p>Consuming a live sports API with match headlines and real-time timer updates per game.</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td valign="middle">
-                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td height="150" width="400" valign="top">
-                        <h4><a href="https://github.com/Gui25Reis/Itau-Challenge">Itaú</a></h4>
-                        <p>Consuming the Marvel characters API with CoreData caching and encrypted local storage.</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td valign="middle">
-                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td height="150" width="400" valign="top">
-                        <h4><a href="https://github.com/Gui25Reis/Stone-Challenge">Stone</a></h4>
-                        <p>Consuming the Rick and Morty API, listing characters with filtering support.</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td valign="middle">
-                        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-                        <img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/>
                     </td>
                 </tr>
             </table>
