@@ -364,7 +364,7 @@
 ----------
 ## Honorable Mentions
 
-### Studies
+### Studies & Challenges
 <table>
     <tr>
         <td>
