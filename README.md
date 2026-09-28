@@ -17,9 +17,9 @@
 ----------
 ## About me 😁
 <p align="justify">
-    I’m a 25 year old iOS Developer with a degree in Computer Science from Universidade Presbiteriana Mackenzie. I’m passionate about building applications, solving complex problems, and continuously improving my technical skills.
-    <br/><br/>Since the beginning of my journey, I’ve focused on understanding not only how to build solutions, but why they work. This approach helped me develop a strong foundation in clean code, best practices, and solid programming logic.
-    <br/><br/>I have a strong focus on performance, always evaluating different strategies to deliver efficient and scalable solutions — a topic I also explored in my final thesis. I’m also experienced in documentation and development methodologies, having worked on a Technological Initiation project focused on structured documentation during my college years.
+    I'm an iOS Software Engineer with 7+ years of experience (5+ in Swift) and a degree in Computer Science from Universidade Presbiteriana Mackenzie. I currently work at Novibet, on a localized app serving multiple countries, and previously at Santander (F1rst), where I owned projects such as the centralized MFA module and the Facial Biometrics refactor, and acted as Tech Lead and Code Owner.
+    <br/><br/>I focus on performance, architecture, and modularization, always evaluating different strategies to deliver efficient and scalable solutions, a topic I also explored in my final thesis. I care about understanding not only how to build things, but why they work, which shaped my habits around clean code, documentation, and testing.
+    <br/><br/>I use AI as a tool to boost productivity and quality, including a Claude Code workspace with project context and reusable skills for my day-to-day work.
 </p>
 
 ----------
@@ -52,6 +52,7 @@
             <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-004EAB?style=flat-square&logo=swift&logoColor=white"/></a>
             <a href="https://developer.apple.com/documentation/uikit"><img src="https://img.shields.io/badge/UIKit-2C92BE?style=flat-square&logo=apple&logoColor=white"/></a>
             <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
+            <a href="https://www.riverbankcomputing.com/software/pyqt/"><img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>
         </td>
     </tr>
     <tr>
@@ -315,18 +316,18 @@
             <table>
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem">
+                        <a href="https://github.com/Maria-Cacau">
                             <img src="images/_apps/Maria_Cacau-Logo.png"  alt="Maria Cacau logo"/>
                         </a>
                         <p><b>Maria Cacau</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        One of the first pieces of software where every new version showed how much I was evolving. It's a desktop program for the Maria Cacau company that summarizes the orders for a selected period and the types of deliveries they need to plan.
+                        One of the first pieces of software where every new version showed how much I was evolving, and it's still going. It's a desktop program for the Maria Cacau company, used daily since 2021, that summarizes the orders for a selected period, the deliveries they need to plan, and who still owes a payment. Over time it grew a proper architecture, its own design system, and CI/CD, and became my playground for everything beyond iOS.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="https://github.com/Gui25Reis/Maria-Cacau-Contagem/releases/download/3.0.0/MC.-.Analise.exe">
+                        <a href="https://github.com/Maria-Cacau/Maria-Cacau-App/releases">
                             <img src="images/Windows-black-Pt.png" height=40/>
                         </a>
                     </td>
