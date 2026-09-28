@@ -322,7 +322,7 @@
                         <p><b>Maria Cacau</b></p>
                     </td>
                     <td rowspan="2" width = 400 valign="top">
-                        One of the first pieces of software where every new version showed how much I was evolving, and it's still going. It's a desktop program for the Maria Cacau company, used daily since 2021, that summarizes the orders for a selected period, the deliveries they need to plan, and who still owes a payment. Over time it grew a proper architecture, its own design system, and CI/CD, and became my playground for everything beyond iOS.
+                        One of the first pieces of software where every new version showed how much I was evolving, and it's still going. It's a desktop program for the Maria Cacau company, used daily since 2021. Over time it grew a proper architecture, its own design system, and CI/CD, and became my playground for everything beyond iOS.
                     </td>
                 </tr>
                 <tr>
